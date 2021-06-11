@@ -1,0 +1,8 @@
+INFO:Test
+DEBUG:subprocess.call(['ffmpeg', '-y', '-f', 'mp4', '-i', 'C:\\Users\\Chris\\Documents\\Python\\StoryLearningSpanish\\podcast-test\\0.m4a', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:Test
+2021-06-11 23:30:21,147 INFO:Test
+2021-06-11 23:30:21,237 DEBUG:subprocess.call(['ffmpeg', '-y', '-f', 'mp4', '-i', 'C:\\Users\\Chris\\Documents\\Python\\StoryLearningSpanish\\podcast-test\\0.m4a', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+2021-06-11 23:30:23,737 INFO:Test
+2021-06-11 23:30:34,301 INFO:Test
+2021-06-11 23:30:36,881 INFO:Test
