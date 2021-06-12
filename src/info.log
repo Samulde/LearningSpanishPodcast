@@ -6,3 +6,1542 @@ INFO:Test
 2021-06-11 23:30:23,737 INFO:Test
 2021-06-11 23:30:34,301 INFO:Test
 2021-06-11 23:30:36,881 INFO:Test
+2021-06-12 20:03:36,361 INFO:0 already processed, continuing
+2021-06-12 20:03:36,362 INFO:0 already processed, continuing
+2021-06-12 20:06:57,312 INFO:0 already processed, continuing
+2021-06-12 20:06:57,312 INFO:0 already processed, continuing
+2021-06-12 20:07:30,407 INFO:0 already processed, continuing
+2021-06-12 20:07:30,408 INFO:0 already processed, continuing
+2021-06-12 20:10:04,662 INFO:0 already processed, continuing
+2021-06-12 20:10:04,662 INFO:0 already processed, continuing
+2021-06-12 20:22:25,042 INFO:0 already processed, continuing
+2021-06-12 20:22:25,043 INFO:0 already processed, continuing
+2021-06-12 20:23:52,289 INFO:0 already processed, continuing
+2021-06-12 20:23:52,290 INFO:0 already processed, continuing
+2021-06-12 20:24:16,355 INFO:0 already processed, continuing
+2021-06-12 20:24:16,356 INFO:0 already processed, continuing
+2021-06-12 20:25:25,490 INFO:0 already processed, continuing
+2021-06-12 20:25:25,490 INFO:0.wav is not a .m4a file.
+2021-06-12 20:26:04,450 INFO:0 already processed, continuing
+2021-06-12 20:26:04,451 INFO:0.wav is not a .m4a file.
+2021-06-12 20:27:46,233:INFO:0 already processed, continuing
+2021-06-12 20:27:46,233:INFO:0.wav is not a .m4a file.
+2021-06-12 20:27:46,236:INFO:Reading 0.wav
+2021-06-12 20:28:05,778:INFO:Splting 0.wav
+2021-06-12 20:29:29,147:INFO:0 already processed, continuing
+2021-06-12 20:29:29,148:INFO:0.wav is not a .m4a file.
+2021-06-12 20:29:29,149:INFO:Reading jingle path
+2021-06-12 20:29:30,221:INFO:Reading 0.wav
+2021-06-12 20:29:47,509:INFO:Splting 0.wav
+2021-06-12 20:30:38,919:INFO:0 already processed, continuing
+2021-06-12 20:30:38,920:INFO:0.wav is not a .m4a file.
+2021-06-12 20:30:38,920:INFO:Reading jingle path
+2021-06-12 20:30:39,852:INFO:Reading 0.wav
+2021-06-12 20:30:57,355:INFO:Splting 0.wav
+2021-06-12 20:30:57,424:INFO:605, 0.0649847611784935
+2021-06-12 20:32:30,893:INFO:0 already processed, continuing
+2021-06-12 20:32:30,894:INFO:0.wav is not a .m4a file.
+2021-06-12 20:32:30,896:INFO:Reading jingle path
+2021-06-12 20:32:31,845:INFO:Reading 0.wav
+2021-06-12 20:32:49,873:INFO:Splting 0.wav
+2021-06-12 20:32:49,948:INFO:605, 0.0649847611784935
+2021-06-12 20:33:08,483:INFO:0 already processed, continuing
+2021-06-12 20:33:08,483:INFO:0.wav is not a .m4a file.
+2021-06-12 20:33:08,485:INFO:Reading jingle path
+2021-06-12 20:33:09,408:INFO:Reading 0.wav
+2021-06-12 20:33:26,701:INFO:350643, 0.0902864933013916
+2021-06-12 20:34:58,592:INFO:0 already processed, continuing
+2021-06-12 20:34:58,593:INFO:0.wav is not a .m4a file.
+2021-06-12 20:34:58,595:INFO:Reading jingle path
+2021-06-12 20:34:59,583:INFO:Reading 0.wav
+2021-06-12 20:35:18,042:INFO:169162, 0.04464469850063324
+2021-06-12 20:38:11,759:INFO:0 already processed, continuing
+2021-06-12 20:38:11,760:INFO:0.wav is not a .m4a file.
+2021-06-12 20:38:11,762:INFO:Reading jingle path
+2021-06-12 20:38:12,743:INFO:Reading 0.wav
+2021-06-12 20:38:30,408:INFO:Splting 0.wav
+2021-06-12 20:38:30,462:INFO:103272, 0.03861180320382118
+2021-06-12 20:43:20,099:INFO:0 already processed, continuing
+2021-06-12 20:43:20,099:INFO:0.wav is not a .m4a file.
+2021-06-12 20:43:20,101:INFO:Reading jingle path
+2021-06-12 20:43:21,024:INFO:Reading 0.wav
+2021-06-12 20:43:38,418:INFO:169162, 0.04464469850063324
+2021-06-12 20:47:15,923:INFO:0 already processed, continuing
+2021-06-12 20:47:15,924:INFO:0.wav is not a .m4a file.
+2021-06-12 20:47:15,926:INFO:Reading jingle path
+2021-06-12 20:47:16,857:INFO:Reading 0.wav
+2021-06-12 20:47:34,667:INFO:169162, 0.04464469850063324
+2021-06-12 20:48:37,263:INFO:0 already processed, continuing
+2021-06-12 20:48:37,263:INFO:0.wav is not a .m4a file.
+2021-06-12 20:48:37,265:INFO:Reading jingle path
+2021-06-12 20:48:38,225:INFO:Reading 0.wav
+2021-06-12 20:48:55,412:INFO:169162, 0.04464469850063324
+2021-06-12 20:53:45,875:INFO:0 already processed, continuing
+2021-06-12 20:53:45,875:INFO:0.wav is not a .m4a file.
+2021-06-12 20:53:45,879:INFO:0_test.wav is not a .m4a file.
+2021-06-12 20:53:45,880:INFO:Reading jingle path
+2021-06-12 20:53:47,032:INFO:Reading 0.wav
+2021-06-12 20:57:18,728:INFO:0 already processed, continuing
+2021-06-12 20:57:18,729:INFO:0.wav is not a .m4a file.
+2021-06-12 20:57:18,729:INFO:0_test.wav is not a .m4a file.
+2021-06-12 20:57:18,730:INFO:Reading jingle path
+2021-06-12 20:57:19,657:INFO:Reading 0.wav
+2021-06-12 20:57:37,265:INFO:169162, 0.04464469850063324
+2021-06-12 20:58:45,243:INFO:0 already processed, continuing
+2021-06-12 20:58:45,243:INFO:0.wav is not a .m4a file.
+2021-06-12 20:58:45,245:INFO:0_test.wav is not a .m4a file.
+2021-06-12 20:58:45,246:INFO:Reading jingle path
+2021-06-12 20:58:46,292:INFO:Reading 0.wav
+2021-06-12 20:59:03,835:INFO:169162, 0.04464469850063324
+2021-06-12 21:00:46,499:INFO:0 already processed, continuing
+2021-06-12 21:00:46,499:INFO:0.wav is not a .m4a file.
+2021-06-12 21:00:46,501:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:00:46,502:INFO:Reading jingle path
+2021-06-12 21:00:47,418:INFO:Reading 0.wav
+2021-06-12 21:01:04,511:INFO:169162, 0.04464469850063324
+2021-06-12 21:05:51,469:INFO:0 already processed, continuing
+2021-06-12 21:05:51,469:INFO:0.wav is not a .m4a file.
+2021-06-12 21:05:51,472:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:05:51,472:INFO:Reading jingle path
+2021-06-12 21:05:52,407:INFO:Reading 0.wav
+2021-06-12 21:06:09,972:INFO:103272, 0.03861180320382118
+2021-06-12 21:06:44,404:INFO:0 already processed, continuing
+2021-06-12 21:06:44,405:INFO:0.wav is not a .m4a file.
+2021-06-12 21:06:44,407:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:06:44,407:INFO:Reading jingle path
+2021-06-12 21:06:45,385:INFO:Reading 0.wav
+2021-06-12 21:07:02,760:INFO:103272, 0.03861180320382118
+2021-06-12 21:07:46,960:INFO:0 already processed, continuing
+2021-06-12 21:07:46,960:INFO:0.wav is not a .m4a file.
+2021-06-12 21:07:46,962:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:07:46,963:INFO:Reading jingle path
+2021-06-12 21:07:47,899:INFO:Reading 0.wav
+2021-06-12 21:08:05,315:INFO:103272, 0.03861180320382118
+2021-06-12 21:09:19,877:INFO:0 already processed, continuing
+2021-06-12 21:09:19,878:INFO:0.wav is not a .m4a file.
+2021-06-12 21:09:19,879:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:09:19,880:INFO:Reading jingle path
+2021-06-12 21:09:20,937:INFO:Reading 0.wav
+2021-06-12 21:09:39,073:INFO:103272, 0.03861180320382118
+2021-06-12 21:22:09,948:INFO:0 already processed, continuing
+2021-06-12 21:22:09,949:INFO:0.wav is not a .m4a file.
+2021-06-12 21:22:09,949:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:22:09,950:INFO:Reading jingle path
+2021-06-12 21:22:10,863:INFO:Reading 0.wav
+2021-06-12 21:22:28,271:INFO:103272, 0.03861180320382118
+2021-06-12 21:24:14,844:INFO:0 already processed, continuing
+2021-06-12 21:24:14,845:INFO:0.wav is not a .m4a file.
+2021-06-12 21:24:14,846:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:24:14,847:INFO:Reading jingle path
+2021-06-12 21:24:15,757:INFO:Reading 0.wav
+2021-06-12 21:24:36,757:INFO:103272, 0.03861180320382118
+2021-06-12 21:28:20,888:INFO:0 already processed, continuing
+2021-06-12 21:28:20,889:INFO:0.wav is not a .m4a file.
+2021-06-12 21:28:20,890:INFO:0_test.wav is not a .m4a file.
+2021-06-12 21:28:20,890:INFO:Reading jingle path
+2021-06-12 21:28:21,824:INFO:Reading 0.wav
+2021-06-12 21:28:38,927:INFO:103272, 0.03861180320382118
+2021-06-12 21:30:56,007:INFO:Reading jingle path
+2021-06-12 21:30:56,930:INFO:Reading 0.wav
+2021-06-12 21:31:14,523:INFO:103272, 0.03861180320382118
+2021-06-12 21:31:16,224:INFO:Reading 1.wav
+2021-06-12 21:31:38,129:INFO:151268, 0.037419822067022324
+2021-06-12 21:31:40,892:INFO:Reading 148.wav
+2021-06-12 21:32:04,934:INFO:127797, 0.037268079817295074
+2021-06-12 21:35:45,055:INFO:0 already processed, continuing
+2021-06-12 21:35:45,055:INFO:1 already processed, continuing
+2021-06-12 21:35:45,058:INFO:1 already processed, continuing
+2021-06-12 21:35:45,059:INFO:148 already processed, continuing
+2021-06-12 21:35:45,059:INFO:148 already processed, continuing
+2021-06-12 21:35:45,060:INFO:Reading jingle path
+2021-06-12 21:35:46,056:INFO:Reading 0.wav
+2021-06-12 21:36:03,504:INFO:101139, 0.1407850682735443
+2021-06-12 21:36:05,124:INFO:Reading 1.wav
+2021-06-12 21:36:27,784:INFO:149135, 0.15933354198932648
+2021-06-12 21:36:30,208:INFO:Reading 148.wav
+2021-06-12 21:36:50,879:INFO:125683, 0.16008514165878296
+2021-06-12 21:41:01,173:INFO:0 already processed, continuing
+2021-06-12 21:41:01,173:INFO:Reading jingle path
+2021-06-12 21:41:10,484:INFO:0 already processed, continuing
+2021-06-12 21:41:10,484:INFO:Reading jingle path
+2021-06-12 21:41:11,486:INFO:Reading 0.wav
+2021-06-12 21:41:29,068:INFO:101139, 0.1407850682735443
+2021-06-12 21:58:23,521:INFO:0 already processed, continuing
+2021-06-12 21:58:23,522:INFO:0 already processed, continuing
+2021-06-12 21:58:28,319:INFO:Reading jingle path
+2021-06-12 21:58:30,010:INFO:Reading 0.wav
+2021-06-12 21:58:47,861:INFO:101139, 0.1407850682735443
+2021-06-12 21:58:49,569:INFO:Reading 1.wav
+2021-06-12 21:59:11,200:INFO:149135, 0.15933354198932648
+2021-06-12 22:07:15,933:INFO:0 already processed, continuing
+2021-06-12 22:07:15,934:INFO:0 already processed, continuing
+2021-06-12 22:07:15,935:INFO:1 already processed, continuing
+2021-06-12 22:07:15,936:INFO:1 already processed, continuing
+2021-06-12 22:07:15,936:INFO:Reading jingle path
+2021-06-12 22:07:16,931:INFO:Reading 0.wav
+2021-06-12 22:07:34,324:INFO:Finding offset of 0.wav
+2021-06-12 22:07:34,444:INFO:97139, 0.1407850682735443
+2021-06-12 22:07:36,017:INFO:Reading 1.wav
+2021-06-12 22:07:57,406:INFO:Finding offset of 1.wav
+2021-06-12 22:07:57,577:INFO:145135, 0.15933354198932648
+2021-06-12 22:09:58,314:INFO:0 already processed, continuing
+2021-06-12 22:09:58,315:INFO:1 already processed, continuing
+2021-06-12 22:11:34,725:INFO:0 already processed, continuing
+2021-06-12 22:11:34,727:INFO:1 already processed, continuing
+2021-06-12 22:11:34,729:INFO:10 already processed, continuing
+2021-06-12 22:11:34,731:INFO:100 already processed, continuing
+2021-06-12 22:11:34,732:INFO:101 already processed, continuing
+2021-06-12 22:11:34,733:INFO:102 already processed, continuing
+2021-06-12 22:11:34,734:INFO:103 already processed, continuing
+2021-06-12 22:11:34,736:INFO:104 already processed, continuing
+2021-06-12 22:11:34,737:INFO:105 already processed, continuing
+2021-06-12 22:11:34,739:INFO:106 already processed, continuing
+2021-06-12 22:11:34,740:INFO:107 already processed, continuing
+2021-06-12 22:11:34,741:INFO:108 already processed, continuing
+2021-06-12 22:11:34,743:INFO:109 already processed, continuing
+2021-06-12 22:11:34,744:INFO:11 already processed, continuing
+2021-06-12 22:11:34,745:INFO:110 already processed, continuing
+2021-06-12 22:11:34,749:INFO:111 already processed, continuing
+2021-06-12 22:11:34,751:INFO:112 already processed, continuing
+2021-06-12 22:11:34,752:INFO:113 already processed, continuing
+2021-06-12 22:11:34,753:INFO:114 already processed, continuing
+2021-06-12 22:11:34,755:INFO:115 already processed, continuing
+2021-06-12 22:11:34,756:INFO:116 already processed, continuing
+2021-06-12 22:11:34,757:INFO:117 already processed, continuing
+2021-06-12 22:11:34,758:INFO:118 already processed, continuing
+2021-06-12 22:11:34,759:INFO:119 already processed, continuing
+2021-06-12 22:11:34,764:INFO:12 already processed, continuing
+2021-06-12 22:11:34,765:INFO:120 already processed, continuing
+2021-06-12 22:11:34,766:INFO:121 already processed, continuing
+2021-06-12 22:11:34,767:INFO:Converting 122 ... 
+2021-06-12 22:11:37,824:INFO:Converting 122 Done
+2021-06-12 22:11:37,825:INFO:Converting 123 ... 
+2021-06-12 22:11:42,105:INFO:Converting 123 Done
+2021-06-12 22:11:42,106:INFO:Converting 124 ... 
+2021-06-12 22:11:44,598:INFO:Converting 124 Done
+2021-06-12 22:11:44,599:INFO:Converting 125 ... 
+2021-06-12 22:11:49,210:INFO:Converting 125 Done
+2021-06-12 22:11:49,211:INFO:Converting 126 ... 
+2021-06-12 22:11:52,178:INFO:Converting 126 Done
+2021-06-12 22:11:52,179:INFO:Converting 127 ... 
+2021-06-12 22:11:55,656:INFO:Converting 127 Done
+2021-06-12 22:11:55,657:INFO:Converting 128 ... 
+2021-06-12 22:11:59,650:INFO:Converting 128 Done
+2021-06-12 22:11:59,654:INFO:Converting 129 ... 
+2021-06-12 22:12:03,207:INFO:Converting 129 Done
+2021-06-12 22:12:03,208:INFO:Converting 13 ... 
+2021-06-12 22:12:06,059:INFO:Converting 13 Done
+2021-06-12 22:12:06,060:INFO:Converting 130 ... 
+2021-06-12 22:12:08,992:INFO:Converting 130 Done
+2021-06-12 22:12:08,993:INFO:Converting 131 ... 
+2021-06-12 22:12:14,917:INFO:Converting 131 Done
+2021-06-12 22:12:14,918:INFO:Converting 132 ... 
+2021-06-12 22:12:19,600:INFO:Converting 132 Done
+2021-06-12 22:12:19,601:INFO:Converting 133 ... 
+2021-06-12 22:12:23,147:INFO:Converting 133 Done
+2021-06-12 22:12:23,148:INFO:Converting 134 ... 
+2021-06-12 22:12:26,505:INFO:Converting 134 Done
+2021-06-12 22:12:26,506:INFO:Converting 135 ... 
+2021-06-12 22:12:29,438:INFO:Converting 135 Done
+2021-06-12 22:12:29,439:INFO:Converting 136 ... 
+2021-06-12 22:12:34,187:INFO:Converting 136 Done
+2021-06-12 22:12:34,188:INFO:Converting 137 ... 
+2021-06-12 22:12:37,160:INFO:Converting 137 Done
+2021-06-12 22:12:37,162:INFO:Converting 138 ... 
+2021-06-12 22:12:41,439:INFO:Converting 138 Done
+2021-06-12 22:12:41,440:INFO:Converting 139 ... 
+2021-06-12 22:12:45,917:INFO:Converting 139 Done
+2021-06-12 22:12:45,918:INFO:Converting 14 ... 
+2021-06-12 22:12:50,400:INFO:Converting 14 Done
+2021-06-12 22:12:50,401:INFO:Converting 140 ... 
+2021-06-12 22:12:54,534:INFO:Converting 140 Done
+2021-06-12 22:12:54,535:INFO:Converting 141 ... 
+2021-06-12 22:12:57,527:INFO:Converting 141 Done
+2021-06-12 22:12:57,528:INFO:Converting 142 ... 
+2021-06-12 22:13:00,453:INFO:Converting 142 Done
+2021-06-12 22:13:00,454:INFO:Converting 143 ... 
+2021-06-12 22:13:03,372:INFO:Converting 143 Done
+2021-06-12 22:13:03,373:INFO:Converting 144 ... 
+2021-06-12 22:13:07,864:INFO:Converting 144 Done
+2021-06-12 22:13:07,865:INFO:Converting 145 ... 
+2021-06-12 22:13:11,980:INFO:Converting 145 Done
+2021-06-12 22:13:11,981:INFO:Converting 146 ... 
+2021-06-12 22:13:14,811:INFO:Converting 146 Done
+2021-06-12 22:13:14,812:INFO:Converting 147 ... 
+2021-06-12 22:13:19,481:INFO:Converting 147 Done
+2021-06-12 22:13:19,482:INFO:Converting 148 ... 
+2021-06-12 22:13:22,784:INFO:Converting 148 Done
+2021-06-12 22:13:22,785:INFO:Converting 149 ... 
+2021-06-12 22:13:27,139:INFO:Converting 149 Done
+2021-06-12 22:13:27,140:INFO:Converting 15 ... 
+2021-06-12 22:13:30,294:INFO:Converting 15 Done
+2021-06-12 22:13:30,295:INFO:Converting 150 ... 
+2021-06-12 22:13:34,750:INFO:Converting 150 Done
+2021-06-12 22:13:34,751:INFO:Converting 151 ... 
+2021-06-12 22:13:39,949:INFO:Converting 151 Done
+2021-06-12 22:13:39,950:INFO:Converting 152 ... 
+2021-06-12 22:13:42,913:INFO:Converting 152 Done
+2021-06-12 22:13:42,914:INFO:Converting 153 ... 
+2021-06-12 22:13:47,708:INFO:Converting 153 Done
+2021-06-12 22:13:47,709:INFO:Converting 154 ... 
+2021-06-12 22:13:52,409:INFO:Converting 154 Done
+2021-06-12 22:13:52,410:INFO:Converting 155 ... 
+2021-06-12 22:13:55,004:INFO:Converting 155 Done
+2021-06-12 22:13:55,004:INFO:Converting 156 ... 
+2021-06-12 22:13:57,650:INFO:Converting 156 Done
+2021-06-12 22:13:57,653:INFO:Converting 157 ... 
+2021-06-12 22:14:00,910:INFO:Converting 157 Done
+2021-06-12 22:14:00,911:INFO:Converting 158 ... 
+2021-06-12 22:14:04,507:INFO:Converting 158 Done
+2021-06-12 22:14:04,508:INFO:Converting 159 ... 
+2021-06-12 22:14:10,984:INFO:Converting 159 Done
+2021-06-12 22:14:10,985:INFO:Converting 16 ... 
+2021-06-12 22:14:14,478:INFO:Converting 16 Done
+2021-06-12 22:14:14,479:INFO:Converting 160 ... 
+2021-06-12 22:14:19,659:INFO:Converting 160 Done
+2021-06-12 22:14:19,660:INFO:Converting 161 ... 
+2021-06-12 22:14:24,762:INFO:Converting 161 Done
+2021-06-12 22:14:24,763:INFO:Converting 162 ... 
+2021-06-12 22:14:28,981:INFO:Converting 162 Done
+2021-06-12 22:14:28,983:INFO:Converting 163 ... 
+2021-06-12 22:14:36,932:INFO:Converting 163 Done
+2021-06-12 22:14:36,933:INFO:Converting 164 ... 
+2021-06-12 22:14:43,058:INFO:Converting 164 Done
+2021-06-12 22:14:43,059:INFO:Converting 165 ... 
+2021-06-12 22:14:46,386:INFO:Converting 165 Done
+2021-06-12 22:14:46,387:INFO:Converting 166 ... 
+2021-06-12 22:14:52,269:INFO:Converting 166 Done
+2021-06-12 22:14:52,270:INFO:Converting 167 ... 
+2021-06-12 22:14:59,541:INFO:Converting 167 Done
+2021-06-12 22:14:59,543:INFO:Converting 17 ... 
+2021-06-12 22:15:03,661:INFO:Converting 17 Done
+2021-06-12 22:15:03,662:INFO:Converting 18 ... 
+2021-06-12 22:15:07,720:INFO:Converting 18 Done
+2021-06-12 22:15:07,721:INFO:Converting 19 ... 
+2021-06-12 22:15:13,510:INFO:Converting 19 Done
+2021-06-12 22:15:13,511:INFO:Converting 2 ... 
+2021-06-12 22:15:17,596:INFO:Converting 2 Done
+2021-06-12 22:15:17,597:INFO:Converting 20 ... 
+2021-06-12 22:15:21,532:INFO:Converting 20 Done
+2021-06-12 22:15:21,533:INFO:Converting 21 ... 
+2021-06-12 22:15:25,071:INFO:Converting 21 Done
+2021-06-12 22:15:25,072:INFO:Converting 22 ... 
+2021-06-12 22:15:29,875:INFO:Converting 22 Done
+2021-06-12 22:15:29,876:INFO:Converting 23 ... 
+2021-06-12 22:15:33,383:INFO:Converting 23 Done
+2021-06-12 22:15:33,384:INFO:Converting 24 ... 
+2021-06-12 22:15:39,057:INFO:Converting 24 Done
+2021-06-12 22:15:39,058:INFO:Converting 25 ... 
+2021-06-12 22:15:43,742:INFO:Converting 25 Done
+2021-06-12 22:15:43,743:INFO:Converting 26 ... 
+2021-06-12 22:15:47,125:INFO:Converting 26 Done
+2021-06-12 22:15:47,126:INFO:Converting 27 ... 
+2021-06-12 22:15:51,773:INFO:Converting 27 Done
+2021-06-12 22:15:51,774:INFO:Converting 28 ... 
+2021-06-12 22:15:56,095:INFO:Converting 28 Done
+2021-06-12 22:15:56,096:INFO:Converting 29 ... 
+2021-06-12 22:16:01,778:INFO:Converting 29 Done
+2021-06-12 22:16:01,780:INFO:Converting 3 ... 
+2021-06-12 22:16:06,474:INFO:Converting 3 Done
+2021-06-12 22:16:06,475:INFO:Converting 30 ... 
+2021-06-12 22:16:11,088:INFO:Converting 30 Done
+2021-06-12 22:16:11,089:INFO:Converting 31 ... 
+2021-06-12 22:16:14,238:INFO:Converting 31 Done
+2021-06-12 22:16:14,239:INFO:Converting 32 ... 
+2021-06-12 22:16:19,069:INFO:Converting 32 Done
+2021-06-12 22:16:19,070:INFO:Converting 33 ... 
+2021-06-12 22:16:23,533:INFO:Converting 33 Done
+2021-06-12 22:16:23,534:INFO:Converting 34 ... 
+2021-06-12 22:16:27,645:INFO:Converting 34 Done
+2021-06-12 22:16:27,646:INFO:Converting 35 ... 
+2021-06-12 22:16:30,293:INFO:Converting 35 Done
+2021-06-12 22:16:30,295:INFO:Converting 36 ... 
+2021-06-12 22:16:35,531:INFO:Converting 36 Done
+2021-06-12 22:16:35,532:INFO:Converting 37 ... 
+2021-06-12 22:16:39,905:INFO:Converting 37 Done
+2021-06-12 22:16:39,906:INFO:Converting 38 ... 
+2021-06-12 22:16:43,671:INFO:Converting 38 Done
+2021-06-12 22:16:43,672:INFO:Converting 39 ... 
+2021-06-12 22:16:48,153:INFO:Converting 39 Done
+2021-06-12 22:16:48,154:INFO:Converting 4 ... 
+2021-06-12 22:16:54,149:INFO:Converting 4 Done
+2021-06-12 22:16:54,150:INFO:Converting 40 ... 
+2021-06-12 22:16:56,666:INFO:Converting 40 Done
+2021-06-12 22:16:56,667:INFO:Converting 41 ... 
+2021-06-12 22:21:06,254:INFO:Converting 0 ... 
+2021-06-12 22:21:08,679:INFO:Converting 0 Done
+2021-06-12 22:21:08,680:INFO:Reading jingle path
+2021-06-12 22:22:24,700:INFO:0 already processed, continuing
+2021-06-12 22:22:24,700:INFO:Converting 1 ... 
+2021-06-12 22:22:27,743:INFO:Converting 1 Done
+2021-06-12 22:22:27,743:INFO:Reading jingle path
+2021-06-12 22:22:28,750:INFO:Reading 0.wav
+2021-06-12 22:22:46,113:INFO:Finding offset of 0.wav
+2021-06-12 22:22:46,238:INFO:97139, 0.1407850682735443
+2021-06-12 22:22:47,801:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\0.wav
+2021-06-12 22:22:47,824:INFO:Reading 1.wav
+2021-06-12 22:23:09,906:INFO:Finding offset of 1.wav
+2021-06-12 22:23:10,084:INFO:145135, 0.15933354198932648
+2021-06-12 22:23:13,391:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\1.wav
+2021-06-12 22:23:13,430:INFO:Converting 10 ... 
+2021-06-12 22:23:16,323:INFO:Converting 10 Done
+2021-06-12 22:23:16,323:INFO:Reading jingle path
+2021-06-12 22:23:16,447:INFO:Reading 10.wav
+2021-06-12 22:23:35,306:INFO:Finding offset of 10.wav
+2021-06-12 22:23:35,428:INFO:105452, 0.15648102760314941
+2021-06-12 22:23:37,167:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\10.wav
+2021-06-12 22:23:37,200:INFO:Converting 100 ... 
+2021-06-12 22:23:40,159:INFO:Converting 100 Done
+2021-06-12 22:23:40,159:INFO:Reading jingle path
+2021-06-12 22:23:40,266:INFO:Reading 100.wav
+2021-06-12 22:24:00,515:INFO:Finding offset of 100.wav
+2021-06-12 22:24:00,664:INFO:126489, 0.13887521624565125
+2021-06-12 22:24:02,876:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\100.wav
+2021-06-12 22:24:02,911:INFO:Converting 101 ... 
+2021-06-12 22:24:05,961:INFO:Converting 101 Done
+2021-06-12 22:24:05,961:INFO:Reading jingle path
+2021-06-12 22:24:06,065:INFO:Reading 101.wav
+2021-06-12 22:24:26,571:INFO:Finding offset of 101.wav
+2021-06-12 22:24:26,719:INFO:116133, 0.1466798037290573
+2021-06-12 22:24:28,645:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\101.wav
+2021-06-12 22:24:28,677:INFO:Converting 102 ... 
+2021-06-12 22:24:31,925:INFO:Converting 102 Done
+2021-06-12 22:24:31,925:INFO:Reading jingle path
+2021-06-12 22:24:32,031:INFO:Reading 102.wav
+2021-06-12 22:24:52,518:INFO:Finding offset of 102.wav
+2021-06-12 22:24:52,668:INFO:119245, 0.1582326889038086
+2021-06-12 22:24:54,597:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\102.wav
+2021-06-12 22:24:54,633:INFO:Converting 103 ... 
+2021-06-12 22:24:57,332:INFO:Converting 103 Done
+2021-06-12 22:24:57,332:INFO:Reading jingle path
+2021-06-12 22:24:57,437:INFO:Reading 103.wav
+2021-06-12 22:25:16,387:INFO:Finding offset of 103.wav
+2021-06-12 22:25:16,522:INFO:94492, 0.14652225375175476
+2021-06-12 22:25:18,047:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\103.wav
+2021-06-12 22:25:18,082:INFO:Converting 104 ... 
+2021-06-12 22:25:20,448:INFO:Converting 104 Done
+2021-06-12 22:25:20,448:INFO:Reading jingle path
+2021-06-12 22:25:20,564:INFO:Reading 104.wav
+2021-06-12 22:25:37,088:INFO:Finding offset of 104.wav
+2021-06-12 22:25:37,200:INFO:76938, 0.15946277976036072
+2021-06-12 22:25:38,489:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\104.wav
+2021-06-12 22:25:38,523:INFO:Converting 105 ... 
+2021-06-12 22:25:41,174:INFO:Converting 105 Done
+2021-06-12 22:25:41,174:INFO:Reading jingle path
+2021-06-12 22:25:41,284:INFO:Reading 105.wav
+2021-06-12 22:25:59,204:INFO:Finding offset of 105.wav
+2021-06-12 22:25:59,327:INFO:88130, 0.1590961068868637
+2021-06-12 22:26:00,756:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\105.wav
+2021-06-12 22:26:00,786:INFO:Converting 106 ... 
+2021-06-12 22:26:02,993:INFO:Converting 106 Done
+2021-06-12 22:26:02,993:INFO:Reading jingle path
+2021-06-12 22:26:03,103:INFO:Reading 106.wav
+2021-06-12 22:26:18,512:INFO:Finding offset of 106.wav
+2021-06-12 22:26:18,621:INFO:66605, 0.1558462679386139
+2021-06-12 22:26:19,758:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\106.wav
+2021-06-12 22:26:19,785:INFO:Converting 107 ... 
+2021-06-12 22:26:23,011:INFO:Converting 107 Done
+2021-06-12 22:26:23,011:INFO:Reading jingle path
+2021-06-12 22:26:23,120:INFO:Reading 107.wav
+2021-06-12 22:26:44,658:INFO:Finding offset of 107.wav
+2021-06-12 22:26:44,817:INFO:128138, 0.15946277976036072
+2021-06-12 22:26:46,922:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\107.wav
+2021-06-12 22:26:46,967:INFO:Converting 108 ... 
+2021-06-12 22:26:49,618:INFO:Converting 108 Done
+2021-06-12 22:26:49,618:INFO:Reading jingle path
+2021-06-12 22:26:49,723:INFO:Reading 108.wav
+2021-06-12 22:27:08,301:INFO:Finding offset of 108.wav
+2021-06-12 22:27:08,434:INFO:101319, 0.16012589633464813
+2021-06-12 22:27:10,117:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\108.wav
+2021-06-12 22:27:10,153:INFO:Converting 109 ... 
+2021-06-12 22:27:13,321:INFO:Converting 109 Done
+2021-06-12 22:27:13,321:INFO:Reading jingle path
+2021-06-12 22:27:13,429:INFO:Reading 109.wav
+2021-06-12 22:27:35,614:INFO:Finding offset of 109.wav
+2021-06-12 22:27:35,771:INFO:126861, 0.1603481024503708
+2021-06-12 22:27:37,858:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\109.wav
+2021-06-12 22:27:37,896:INFO:Converting 11 ... 
+2021-06-12 22:27:40,395:INFO:Converting 11 Done
+2021-06-12 22:27:40,395:INFO:Reading jingle path
+2021-06-12 22:27:40,507:INFO:Reading 11.wav
+2021-06-12 22:27:58,434:INFO:Finding offset of 11.wav
+2021-06-12 22:27:58,558:INFO:100019, 0.1533140391111374
+2021-06-12 22:28:00,184:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\11.wav
+2021-06-12 22:28:00,213:INFO:Converting 110 ... 
+2021-06-12 22:28:03,505:INFO:Converting 110 Done
+2021-06-12 22:28:03,505:INFO:Reading jingle path
+2021-06-12 22:28:03,613:INFO:Reading 110.wav
+2021-06-12 22:28:25,812:INFO:Finding offset of 110.wav
+2021-06-12 22:28:25,978:INFO:144439, 0.13729001581668854
+2021-06-12 22:28:28,315:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\110.wav
+2021-06-12 22:28:28,355:INFO:Converting 111 ... 
+2021-06-12 22:28:31,206:INFO:Converting 111 Done
+2021-06-12 22:28:31,206:INFO:Reading jingle path
+2021-06-12 22:28:31,312:INFO:Reading 111.wav
+2021-06-12 22:28:51,143:INFO:Finding offset of 111.wav
+2021-06-12 22:28:51,285:INFO:103270, 0.13906995952129364
+2021-06-12 22:28:52,998:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\111.wav
+2021-06-12 22:28:53,042:INFO:Converting 112 ... 
+2021-06-12 22:28:55,739:INFO:Converting 112 Done
+2021-06-12 22:28:55,739:INFO:Reading jingle path
+2021-06-12 22:28:55,854:INFO:Reading 112.wav
+2021-06-12 22:29:14,965:INFO:Finding offset of 112.wav
+2021-06-12 22:29:15,189:INFO:106404, 0.15574850142002106
+2021-06-12 22:29:17,042:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\112.wav
+2021-06-12 22:29:17,077:INFO:Converting 113 ... 
+2021-06-12 22:29:19,797:INFO:Converting 113 Done
+2021-06-12 22:29:19,797:INFO:Reading jingle path
+2021-06-12 22:29:19,898:INFO:Reading 113.wav
+2021-06-12 22:29:38,852:INFO:Finding offset of 113.wav
+2021-06-12 22:29:38,983:INFO:94469, 0.1578221321105957
+2021-06-12 22:29:40,509:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\113.wav
+2021-06-12 22:29:40,539:INFO:Converting 114 ... 
+2021-06-12 22:29:43,087:INFO:Converting 114 Done
+2021-06-12 22:29:43,087:INFO:Reading jingle path
+2021-06-12 22:29:43,193:INFO:Reading 114.wav
+2021-06-12 22:30:00,610:INFO:Finding offset of 114.wav
+2021-06-12 22:30:00,730:INFO:86458, 0.1529620885848999
+2021-06-12 22:30:02,176:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\114.wav
+2021-06-12 22:30:02,208:INFO:Converting 115 ... 
+2021-06-12 22:30:05,228:INFO:Converting 115 Done
+2021-06-12 22:30:05,229:INFO:Reading jingle path
+2021-06-12 22:30:05,343:INFO:Reading 115.wav
+2021-06-12 22:30:25,009:INFO:Finding offset of 115.wav
+2021-06-12 22:30:25,150:INFO:103223, 0.15966196358203888
+2021-06-12 22:30:26,885:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\115.wav
+2021-06-12 22:30:26,920:INFO:Converting 116 ... 
+2021-06-12 22:30:29,623:INFO:Converting 116 Done
+2021-06-12 22:30:29,623:INFO:Reading jingle path
+2021-06-12 22:30:29,728:INFO:Reading 116.wav
+2021-06-12 22:30:50,416:INFO:Finding offset of 116.wav
+2021-06-12 22:30:50,555:INFO:107170, 0.13907276093959808
+2021-06-12 22:30:52,335:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\116.wav
+2021-06-12 22:30:52,370:INFO:Converting 117 ... 
+2021-06-12 22:30:55,006:INFO:Converting 117 Done
+2021-06-12 22:30:55,006:INFO:Reading jingle path
+2021-06-12 22:30:55,110:INFO:Reading 117.wav
+2021-06-12 22:31:12,993:INFO:Finding offset of 117.wav
+2021-06-12 22:31:13,116:INFO:86969, 0.15904156863689423
+2021-06-12 22:31:14,589:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\117.wav
+2021-06-12 22:31:14,628:INFO:Converting 118 ... 
+2021-06-12 22:31:17,344:INFO:Converting 118 Done
+2021-06-12 22:31:17,344:INFO:Reading jingle path
+2021-06-12 22:31:17,447:INFO:Reading 118.wav
+2021-06-12 22:31:36,838:INFO:Finding offset of 118.wav
+2021-06-12 22:31:36,967:INFO:103525, 0.16003690659999847
+2021-06-12 22:31:38,697:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\118.wav
+2021-06-12 22:31:38,734:INFO:Converting 119 ... 
+2021-06-12 22:31:41,420:INFO:Converting 119 Done
+2021-06-12 22:31:41,420:INFO:Reading jingle path
+2021-06-12 22:31:41,536:INFO:Reading 119.wav
+2021-06-12 22:32:00,180:INFO:Finding offset of 119.wav
+2021-06-12 22:32:00,309:INFO:90986, 0.15760529041290283
+2021-06-12 22:32:01,790:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\119.wav
+2021-06-12 22:32:01,819:INFO:Converting 12 ... 
+2021-06-12 22:32:05,068:INFO:Converting 12 Done
+2021-06-12 22:32:05,069:INFO:Reading jingle path
+2021-06-12 22:32:05,183:INFO:Reading 12.wav
+2021-06-12 22:32:26,565:INFO:Finding offset of 12.wav
+2021-06-12 22:32:26,722:INFO:146459, 0.14792531728744507
+2021-06-12 22:32:29,062:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\12.wav
+2021-06-12 22:32:29,099:INFO:Converting 120 ... 
+2021-06-12 22:32:31,639:INFO:Converting 120 Done
+2021-06-12 22:32:31,639:INFO:Reading jingle path
+2021-06-12 22:32:31,746:INFO:Reading 120.wav
+2021-06-12 22:32:49,595:INFO:Finding offset of 120.wav
+2021-06-12 22:32:49,715:INFO:91009, 0.14603595435619354
+2021-06-12 22:32:51,407:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\120.wav
+2021-06-12 22:32:51,468:INFO:Converting 121 ... 
+2021-06-12 22:32:54,755:INFO:Converting 121 Done
+2021-06-12 22:32:54,755:INFO:Reading jingle path
+2021-06-12 22:32:54,864:INFO:Reading 121.wav
+2021-06-12 22:33:15,986:INFO:Finding offset of 121.wav
+2021-06-12 22:33:16,140:INFO:118966, 0.1559365838766098
+2021-06-12 22:33:18,094:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\121.wav
+2021-06-12 22:33:18,127:INFO:Converting 122 ... 
+2021-06-12 22:33:20,829:INFO:Converting 122 Done
+2021-06-12 22:33:20,829:INFO:Reading jingle path
+2021-06-12 22:33:20,935:INFO:Reading 122.wav
+2021-06-12 22:33:39,308:INFO:Finding offset of 122.wav
+2021-06-12 22:33:39,435:INFO:100808, 0.15612226724624634
+2021-06-12 22:33:41,084:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\122.wav
+2021-06-12 22:33:41,119:INFO:Converting 123 ... 
+2021-06-12 22:33:44,231:INFO:Converting 123 Done
+2021-06-12 22:33:44,232:INFO:Reading jingle path
+2021-06-12 22:33:44,348:INFO:Reading 123.wav
+2021-06-12 22:34:02,632:INFO:Finding offset of 123.wav
+2021-06-12 22:34:02,764:INFO:89221, 0.14115607738494873
+2021-06-12 22:34:04,236:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\123.wav
+2021-06-12 22:34:04,268:INFO:Converting 124 ... 
+2021-06-12 22:34:06,556:INFO:Converting 124 Done
+2021-06-12 22:34:06,556:INFO:Reading jingle path
+2021-06-12 22:34:06,670:INFO:Reading 124.wav
+2021-06-12 22:34:22,788:INFO:Finding offset of 124.wav
+2021-06-12 22:34:22,893:INFO:75615, 0.14189542829990387
+2021-06-12 22:34:24,190:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\124.wav
+2021-06-12 22:34:24,224:INFO:Converting 125 ... 
+2021-06-12 22:34:27,132:INFO:Converting 125 Done
+2021-06-12 22:34:27,133:INFO:Reading jingle path
+2021-06-12 22:34:27,235:INFO:Reading 125.wav
+2021-06-12 22:34:46,594:INFO:Finding offset of 125.wav
+2021-06-12 22:34:46,731:INFO:99624, 0.16034084558486938
+2021-06-12 22:34:48,377:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\125.wav
+2021-06-12 22:34:48,429:INFO:Converting 126 ... 
+2021-06-12 22:34:51,326:INFO:Converting 126 Done
+2021-06-12 22:34:51,326:INFO:Reading jingle path
+2021-06-12 22:34:51,430:INFO:Reading 126.wav
+2021-06-12 22:35:11,127:INFO:Finding offset of 126.wav
+2021-06-12 22:35:11,260:INFO:112395, 0.1602381318807602
+2021-06-12 22:35:13,123:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\126.wav
+2021-06-12 22:35:13,155:INFO:Converting 127 ... 
+2021-06-12 22:35:16,314:INFO:Converting 127 Done
+2021-06-12 22:35:16,315:INFO:Reading jingle path
+2021-06-12 22:35:16,419:INFO:Reading 127.wav
+2021-06-12 22:35:37,429:INFO:Finding offset of 127.wav
+2021-06-12 22:35:37,583:INFO:119686, 0.16025002300739288
+2021-06-12 22:35:39,559:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\127.wav
+2021-06-12 22:35:39,597:INFO:Converting 128 ... 
+2021-06-12 22:35:41,898:INFO:Converting 128 Done
+2021-06-12 22:35:41,898:INFO:Reading jingle path
+2021-06-12 22:35:42,006:INFO:Reading 128.wav
+2021-06-12 22:35:58,190:INFO:Finding offset of 128.wav
+2021-06-12 22:35:58,296:INFO:84113, 0.15998370945453644
+2021-06-12 22:35:59,688:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\128.wav
+2021-06-12 22:35:59,717:INFO:Converting 129 ... 
+2021-06-12 22:36:02,976:INFO:Converting 129 Done
+2021-06-12 22:36:02,976:INFO:Reading jingle path
+2021-06-12 22:36:03,082:INFO:Reading 129.wav
+2021-06-12 22:36:24,994:INFO:Finding offset of 129.wav
+2021-06-12 22:36:25,160:INFO:130460, 0.15954744815826416
+2021-06-12 22:36:27,308:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\129.wav
+2021-06-12 22:36:27,347:INFO:Converting 13 ... 
+2021-06-12 22:36:29,907:INFO:Converting 13 Done
+2021-06-12 22:36:29,907:INFO:Reading jingle path
+2021-06-12 22:36:30,028:INFO:Reading 13.wav
+2021-06-12 22:36:47,742:INFO:Finding offset of 13.wav
+2021-06-12 22:36:47,870:INFO:103084, 0.15496055781841278
+2021-06-12 22:36:49,543:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\13.wav
+2021-06-12 22:36:49,577:INFO:Converting 130 ... 
+2021-06-12 22:36:52,314:INFO:Converting 130 Done
+2021-06-12 22:36:52,315:INFO:Reading jingle path
+2021-06-12 22:36:52,418:INFO:Reading 130.wav
+2021-06-12 22:37:11,360:INFO:Finding offset of 130.wav
+2021-06-12 22:37:11,493:INFO:104175, 0.15933355689048767
+2021-06-12 22:37:13,191:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\130.wav
+2021-06-12 22:37:13,262:INFO:Converting 131 ... 
+2021-06-12 22:37:16,108:INFO:Converting 131 Done
+2021-06-12 22:37:16,108:INFO:Reading jingle path
+2021-06-12 22:37:16,213:INFO:Reading 131.wav
+2021-06-12 22:37:36,009:INFO:Finding offset of 131.wav
+2021-06-12 22:37:36,161:INFO:106753, 0.13848838210105896
+2021-06-12 22:37:37,904:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\131.wav
+2021-06-12 22:37:37,942:INFO:Converting 132 ... 
+2021-06-12 22:37:40,938:INFO:Converting 132 Done
+2021-06-12 22:37:40,938:INFO:Reading jingle path
+2021-06-12 22:37:41,055:INFO:Reading 132.wav
+2021-06-12 22:38:01,824:INFO:Finding offset of 132.wav
+2021-06-12 22:38:01,972:INFO:123517, 0.15025553107261658
+2021-06-12 22:38:04,014:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\132.wav
+2021-06-12 22:38:04,052:INFO:Converting 133 ... 
+2021-06-12 22:38:07,098:INFO:Converting 133 Done
+2021-06-12 22:38:07,099:INFO:Reading jingle path
+2021-06-12 22:38:07,210:INFO:Reading 133.wav
+2021-06-12 22:38:27,343:INFO:Finding offset of 133.wav
+2021-06-12 22:38:27,487:INFO:108749, 0.14261646568775177
+2021-06-12 22:38:29,312:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\133.wav
+2021-06-12 22:38:29,352:INFO:Converting 134 ... 
+2021-06-12 22:38:32,398:INFO:Converting 134 Done
+2021-06-12 22:38:32,398:INFO:Reading jingle path
+2021-06-12 22:38:32,505:INFO:Reading 134.wav
+2021-06-12 22:38:53,386:INFO:Finding offset of 134.wav
+2021-06-12 22:38:53,568:INFO:121288, 0.15612226724624634
+2021-06-12 22:38:55,535:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\134.wav
+2021-06-12 22:38:55,573:INFO:Converting 135 ... 
+2021-06-12 22:38:58,534:INFO:Converting 135 Done
+2021-06-12 22:38:58,535:INFO:Reading jingle path
+2021-06-12 22:38:58,638:INFO:Reading 135.wav
+2021-06-12 22:39:17,251:INFO:Finding offset of 135.wav
+2021-06-12 22:39:17,380:INFO:92728, 0.14955252408981323
+2021-06-12 22:39:19,143:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\135.wav
+2021-06-12 22:39:19,173:INFO:Converting 136 ... 
+2021-06-12 22:39:22,393:INFO:Converting 136 Done
+2021-06-12 22:39:22,394:INFO:Reading jingle path
+2021-06-12 22:39:22,503:INFO:Reading 136.wav
+2021-06-12 22:39:42,531:INFO:Finding offset of 136.wav
+2021-06-12 22:39:42,672:INFO:120986, 0.14867691695690155
+2021-06-12 22:39:44,710:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\136.wav
+2021-06-12 22:39:44,751:INFO:Converting 137 ... 
+2021-06-12 22:39:47,496:INFO:Converting 137 Done
+2021-06-12 22:39:47,497:INFO:Reading jingle path
+2021-06-12 22:39:47,599:INFO:Reading 137.wav
+2021-06-12 22:40:06,261:INFO:Finding offset of 137.wav
+2021-06-12 22:40:06,391:INFO:97372, 0.14897537231445312
+2021-06-12 22:40:07,990:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\137.wav
+2021-06-12 22:40:08,056:INFO:Converting 138 ... 
+2021-06-12 22:40:10,657:INFO:Converting 138 Done
+2021-06-12 22:40:10,658:INFO:Reading jingle path
+2021-06-12 22:40:10,762:INFO:Reading 138.wav
+2021-06-12 22:40:28,767:INFO:Finding offset of 138.wav
+2021-06-12 22:40:28,889:INFO:95305, 0.15973515808582306
+2021-06-12 22:40:30,457:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\138.wav
+2021-06-12 22:40:30,489:INFO:Converting 139 ... 
+2021-06-12 22:40:33,669:INFO:Converting 139 Done
+2021-06-12 22:40:33,669:INFO:Reading jingle path
+2021-06-12 22:40:33,772:INFO:Reading 139.wav
+2021-06-12 22:40:52,588:INFO:Finding offset of 139.wav
+2021-06-12 22:40:52,720:INFO:92983, 0.15966196358203888
+2021-06-12 22:40:54,235:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\139.wav
+2021-06-12 22:40:54,280:INFO:Converting 14 ... 
+2021-06-12 22:40:57,133:INFO:Converting 14 Done
+2021-06-12 22:40:57,133:INFO:Reading jingle path
+2021-06-12 22:40:57,238:INFO:Reading 14.wav
+2021-06-12 22:41:16,496:INFO:Finding offset of 14.wav
+2021-06-12 22:41:16,633:INFO:123053, 0.15980374813079834
+2021-06-12 22:41:18,618:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\14.wav
+2021-06-12 22:41:18,663:INFO:Converting 140 ... 
+2021-06-12 22:41:21,118:INFO:Converting 140 Done
+2021-06-12 22:41:21,118:INFO:Reading jingle path
+2021-06-12 22:41:21,236:INFO:Reading 140.wav
+2021-06-12 22:41:38,404:INFO:Finding offset of 140.wav
+2021-06-12 22:41:38,523:INFO:11266, 0.04655399173498154
+2021-06-12 22:41:38,853:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\140.wav
+2021-06-12 22:41:38,882:INFO:Converting 141 ... 
+2021-06-12 22:41:41,587:INFO:Converting 141 Done
+2021-06-12 22:41:41,587:INFO:Reading jingle path
+2021-06-12 22:41:41,690:INFO:Reading 141.wav
+2021-06-12 22:41:59,680:INFO:Finding offset of 141.wav
+2021-06-12 22:41:59,805:INFO:88455, 0.15673843026161194
+2021-06-12 22:42:01,366:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\141.wav
+2021-06-12 22:42:01,394:INFO:Converting 142 ... 
+2021-06-12 22:42:04,168:INFO:Converting 142 Done
+2021-06-12 22:42:04,168:INFO:Reading jingle path
+2021-06-12 22:42:04,268:INFO:Reading 142.wav
+2021-06-12 22:42:23,022:INFO:Finding offset of 142.wav
+2021-06-12 22:42:23,152:INFO:98904, 0.15745581686496735
+2021-06-12 22:42:24,773:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\142.wav
+2021-06-12 22:42:24,812:INFO:Converting 143 ... 
+2021-06-12 22:42:27,552:INFO:Converting 143 Done
+2021-06-12 22:42:27,552:INFO:Reading jingle path
+2021-06-12 22:42:27,806:INFO:Reading 143.wav
+2021-06-12 22:42:46,236:INFO:Finding offset of 143.wav
+2021-06-12 22:42:46,365:INFO:89686, 0.15816552937030792
+2021-06-12 22:42:47,828:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\143.wav
+2021-06-12 22:42:47,861:INFO:Converting 144 ... 
+2021-06-12 22:42:50,686:INFO:Converting 144 Done
+2021-06-12 22:42:50,686:INFO:Reading jingle path
+2021-06-12 22:42:50,796:INFO:Reading 144.wav
+2021-06-12 22:43:09,487:INFO:Finding offset of 144.wav
+2021-06-12 22:43:09,619:INFO:105917, 0.14504751563072205
+2021-06-12 22:43:11,366:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\144.wav
+2021-06-12 22:43:11,404:INFO:Converting 145 ... 
+2021-06-12 22:43:13,925:INFO:Converting 145 Done
+2021-06-12 22:43:13,925:INFO:Reading jingle path
+2021-06-12 22:43:14,275:INFO:Reading 145.wav
+2021-06-12 22:43:31,586:INFO:Finding offset of 145.wav
+2021-06-12 22:43:31,703:INFO:78772, 0.13945788145065308
+2021-06-12 22:43:33,004:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\145.wav
+2021-06-12 22:43:33,039:INFO:Converting 146 ... 
+2021-06-12 22:43:35,654:INFO:Converting 146 Done
+2021-06-12 22:43:35,655:INFO:Reading jingle path
+2021-06-12 22:43:35,755:INFO:Reading 146.wav
+2021-06-12 22:43:53,470:INFO:Finding offset of 146.wav
+2021-06-12 22:43:53,591:INFO:95630, 0.15789631009101868
+2021-06-12 22:43:55,146:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\146.wav
+2021-06-12 22:43:55,180:INFO:Converting 147 ... 
+2021-06-12 22:43:58,441:INFO:Converting 147 Done
+2021-06-12 22:43:58,441:INFO:Reading jingle path
+2021-06-12 22:43:58,546:INFO:Reading 147.wav
+2021-06-12 22:44:19,258:INFO:Finding offset of 147.wav
+2021-06-12 22:44:19,415:INFO:115042, 0.1601884961128235
+2021-06-12 22:44:21,488:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\147.wav
+2021-06-12 22:44:21,551:INFO:Converting 148 ... 
+2021-06-12 22:44:24,623:INFO:Converting 148 Done
+2021-06-12 22:44:24,624:INFO:Reading jingle path
+2021-06-12 22:44:24,728:INFO:Reading 148.wav
+2021-06-12 22:44:45,036:INFO:Finding offset of 148.wav
+2021-06-12 22:44:45,182:INFO:121683, 0.16008514165878296
+2021-06-12 22:44:47,421:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\148.wav
+2021-06-12 22:44:47,454:INFO:Converting 149 ... 
+2021-06-12 22:44:50,306:INFO:Converting 149 Done
+2021-06-12 22:44:50,307:INFO:Reading jingle path
+2021-06-12 22:44:50,409:INFO:Reading 149.wav
+2021-06-12 22:45:09,064:INFO:Finding offset of 149.wav
+2021-06-12 22:45:09,199:INFO:90870, 0.1598990112543106
+2021-06-12 22:45:10,700:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\149.wav
+2021-06-12 22:45:10,730:INFO:Converting 15 ... 
+2021-06-12 22:45:13,467:INFO:Converting 15 Done
+2021-06-12 22:45:13,467:INFO:Reading jingle path
+2021-06-12 22:45:13,576:INFO:Reading 15.wav
+2021-06-12 22:45:32,608:INFO:Finding offset of 15.wav
+2021-06-12 22:45:32,743:INFO:118154, 0.13828876614570618
+2021-06-12 22:45:34,632:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\15.wav
+2021-06-12 22:45:34,666:INFO:Converting 150 ... 
+2021-06-12 22:45:37,575:INFO:Converting 150 Done
+2021-06-12 22:45:37,575:INFO:Reading jingle path
+2021-06-12 22:45:37,680:INFO:Reading 150.wav
+2021-06-12 22:45:57,117:INFO:Finding offset of 150.wav
+2021-06-12 22:45:57,258:INFO:106613, 0.15656623244285583
+2021-06-12 22:45:59,166:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\150.wav
+2021-06-12 22:45:59,198:INFO:Converting 151 ... 
+2021-06-12 22:46:02,942:INFO:Converting 151 Done
+2021-06-12 22:46:02,942:INFO:Reading jingle path
+2021-06-12 22:46:03,215:INFO:Reading 151.wav
+2021-06-12 22:46:26,088:INFO:Finding offset of 151.wav
+2021-06-12 22:46:26,257:INFO:137147, 0.1422576755285263
+2021-06-12 22:46:28,507:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\151.wav
+2021-06-12 22:46:28,551:INFO:Converting 152 ... 
+2021-06-12 22:46:31,405:INFO:Converting 152 Done
+2021-06-12 22:46:31,405:INFO:Reading jingle path
+2021-06-12 22:46:31,541:INFO:Reading 152.wav
+2021-06-12 22:46:50,715:INFO:Finding offset of 152.wav
+2021-06-12 22:46:50,852:INFO:112604, 0.16005927324295044
+2021-06-12 22:46:52,703:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\152.wav
+2021-06-12 22:46:52,736:INFO:Converting 153 ... 
+2021-06-12 22:46:55,590:INFO:Converting 153 Done
+2021-06-12 22:46:55,590:INFO:Reading jingle path
+2021-06-12 22:46:55,696:INFO:Reading 153.wav
+2021-06-12 22:47:15,267:INFO:Finding offset of 153.wav
+2021-06-12 22:47:15,405:INFO:101783, 0.14152657985687256
+2021-06-12 22:47:17,055:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\153.wav
+2021-06-12 22:47:17,095:INFO:Converting 154 ... 
+2021-06-12 22:47:19,895:INFO:Converting 154 Done
+2021-06-12 22:47:19,895:INFO:Reading jingle path
+2021-06-12 22:47:19,998:INFO:Reading 154.wav
+2021-06-12 22:47:39,132:INFO:Finding offset of 154.wav
+2021-06-12 22:47:39,267:INFO:105917, 0.14504751563072205
+2021-06-12 22:47:41,018:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\154.wav
+2021-06-12 22:47:41,059:INFO:Converting 155 ... 
+2021-06-12 22:47:43,754:INFO:Converting 155 Done
+2021-06-12 22:47:43,754:INFO:Reading jingle path
+2021-06-12 22:47:43,860:INFO:Reading 155.wav
+2021-06-12 22:48:01,114:INFO:Finding offset of 155.wav
+2021-06-12 22:48:01,226:INFO:70367, 0.15810087323188782
+2021-06-12 22:48:02,781:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\155.wav
+2021-06-12 22:48:02,817:INFO:Converting 156 ... 
+2021-06-12 22:48:05,728:INFO:Converting 156 Done
+2021-06-12 22:48:05,728:INFO:Reading jingle path
+2021-06-12 22:48:05,924:INFO:Reading 156.wav
+2021-06-12 22:48:26,067:INFO:Finding offset of 156.wav
+2021-06-12 22:48:26,182:INFO:79841, 0.14436779916286469
+2021-06-12 22:48:27,784:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\156.wav
+2021-06-12 22:48:27,826:INFO:Converting 157 ... 
+2021-06-12 22:48:31,661:INFO:Converting 157 Done
+2021-06-12 22:48:31,661:INFO:Reading jingle path
+2021-06-12 22:48:31,820:INFO:Reading 157.wav
+2021-06-12 22:48:53,294:INFO:Finding offset of 157.wav
+2021-06-12 22:48:53,433:INFO:101946, 0.16033083200454712
+2021-06-12 22:48:55,143:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\157.wav
+2021-06-12 22:48:55,190:INFO:Converting 158 ... 
+2021-06-12 22:48:58,440:INFO:Converting 158 Done
+2021-06-12 22:48:58,440:INFO:Reading jingle path
+2021-06-12 22:48:58,548:INFO:Reading 158.wav
+2021-06-12 22:49:22,240:INFO:Finding offset of 158.wav
+2021-06-12 22:49:22,391:INFO:97766, 0.14554275572299957
+2021-06-12 22:49:24,337:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\158.wav
+2021-06-12 22:49:24,383:INFO:Converting 159 ... 
+2021-06-12 22:49:29,344:INFO:Converting 159 Done
+2021-06-12 22:49:29,344:INFO:Reading jingle path
+2021-06-12 22:49:29,450:INFO:Reading 159.wav
+2021-06-12 22:49:56,104:INFO:Finding offset of 159.wav
+2021-06-12 22:49:56,305:INFO:155213, 0.14226101338863373
+2021-06-12 22:49:58,843:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\159.wav
+2021-06-12 22:49:58,912:INFO:Converting 16 ... 
+2021-06-12 22:50:01,547:INFO:Converting 16 Done
+2021-06-12 22:50:01,548:INFO:Reading jingle path
+2021-06-12 22:50:01,656:INFO:Reading 16.wav
+2021-06-12 22:50:19,652:INFO:Finding offset of 16.wav
+2021-06-12 22:50:19,777:INFO:106567, 0.1546502560377121
+2021-06-12 22:50:21,529:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\16.wav
+2021-06-12 22:50:21,563:INFO:Converting 160 ... 
+2021-06-12 22:50:24,862:INFO:Converting 160 Done
+2021-06-12 22:50:24,862:INFO:Reading jingle path
+2021-06-12 22:50:24,968:INFO:Reading 160.wav
+2021-06-12 22:50:46,719:INFO:Finding offset of 160.wav
+2021-06-12 22:50:46,879:INFO:112000, 0.15536531805992126
+2021-06-12 22:50:48,716:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\160.wav
+2021-06-12 22:50:48,762:INFO:Converting 161 ... 
+2021-06-12 22:50:51,710:INFO:Converting 161 Done
+2021-06-12 22:50:51,710:INFO:Reading jingle path
+2021-06-12 22:50:51,825:INFO:Reading 161.wav
+2021-06-12 22:51:11,854:INFO:Finding offset of 161.wav
+2021-06-12 22:51:11,993:INFO:88478, 0.14419645071029663
+2021-06-12 22:51:13,624:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\161.wav
+2021-06-12 22:51:13,683:INFO:Converting 162 ... 
+2021-06-12 22:51:17,077:INFO:Converting 162 Done
+2021-06-12 22:51:17,078:INFO:Reading jingle path
+2021-06-12 22:51:17,184:INFO:Reading 162.wav
+2021-06-12 22:51:44,193:INFO:Finding offset of 162.wav
+2021-06-12 22:51:44,370:INFO:112813, 0.15980374813079834
+2021-06-12 22:51:46,287:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\162.wav
+2021-06-12 22:51:46,331:INFO:Converting 163 ... 
+2021-06-12 22:51:51,387:INFO:Converting 163 Done
+2021-06-12 22:51:51,387:INFO:Reading jingle path
+2021-06-12 22:51:51,508:INFO:Reading 163.wav
+2021-06-12 22:52:30,569:INFO:Finding offset of 163.wav
+2021-06-12 22:52:30,845:INFO:145460, 0.1571492850780487
+2021-06-12 22:52:34,094:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\163.wav
+2021-06-12 22:52:34,146:INFO:Converting 164 ... 
+2021-06-12 22:52:38,778:INFO:Converting 164 Done
+2021-06-12 22:52:38,778:INFO:Reading jingle path
+2021-06-12 22:52:38,924:INFO:Reading 164.wav
+2021-06-12 22:53:16,880:INFO:Finding offset of 164.wav
+2021-06-12 22:53:17,106:INFO:108564, 0.15011675655841827
+2021-06-12 22:53:19,338:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\164.wav
+2021-06-12 22:53:19,386:INFO:Converting 165 ... 
+2021-06-12 22:53:23,055:INFO:Converting 165 Done
+2021-06-12 22:53:23,055:INFO:Reading jingle path
+2021-06-12 22:53:23,196:INFO:Reading 165.wav
+2021-06-12 22:53:48,006:INFO:Finding offset of 165.wav
+2021-06-12 22:53:48,169:INFO:72248, 0.14955250918865204
+2021-06-12 22:53:49,715:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\165.wav
+2021-06-12 22:53:49,761:INFO:Converting 166 ... 
+2021-06-12 22:53:53,816:INFO:Converting 166 Done
+2021-06-12 22:53:53,816:INFO:Reading jingle path
+2021-06-12 22:53:53,948:INFO:Reading 166.wav
+2021-06-12 22:54:19,920:INFO:Finding offset of 166.wav
+2021-06-12 22:54:20,101:INFO:101923, 0.1550651639699936
+2021-06-12 22:54:22,467:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\166.wav
+2021-06-12 22:54:22,511:INFO:Converting 167 ... 
+2021-06-12 22:54:27,878:INFO:Converting 167 Done
+2021-06-12 22:54:27,879:INFO:Reading jingle path
+2021-06-12 22:54:27,999:INFO:Reading 167.wav
+2021-06-12 22:55:01,862:INFO:Finding offset of 167.wav
+2021-06-12 22:55:02,147:INFO:179222, 0.16034968197345734
+2021-06-12 22:55:05,522:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\167.wav
+2021-06-12 22:55:05,594:INFO:Converting 17 ... 
+2021-06-12 22:55:08,918:INFO:Converting 17 Done
+2021-06-12 22:55:08,918:INFO:Reading jingle path
+2021-06-12 22:55:09,044:INFO:Reading 17.wav
+2021-06-12 22:55:31,842:INFO:Finding offset of 17.wav
+2021-06-12 22:55:31,990:INFO:109864, 0.16034084558486938
+2021-06-12 22:55:34,083:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\17.wav
+2021-06-12 22:55:34,124:INFO:Converting 18 ... 
+2021-06-12 22:55:38,365:INFO:Converting 18 Done
+2021-06-12 22:55:38,365:INFO:Reading jingle path
+2021-06-12 22:55:38,496:INFO:Reading 18.wav
+2021-06-12 22:56:06,024:INFO:Finding offset of 18.wav
+2021-06-12 22:56:06,235:INFO:146087, 0.1589401364326477
+2021-06-12 22:56:09,081:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\18.wav
+2021-06-12 22:56:09,126:INFO:Converting 19 ... 
+2021-06-12 22:56:12,768:INFO:Converting 19 Done
+2021-06-12 22:56:12,769:INFO:Reading jingle path
+2021-06-12 22:56:12,905:INFO:Reading 19.wav
+2021-06-12 22:56:36,443:INFO:Finding offset of 19.wav
+2021-06-12 22:56:36,638:INFO:106961, 0.13729049265384674
+2021-06-12 22:56:38,672:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\19.wav
+2021-06-12 22:56:38,725:INFO:Converting 2 ... 
+2021-06-12 22:56:42,668:INFO:Converting 2 Done
+2021-06-12 22:56:42,669:INFO:Reading jingle path
+2021-06-12 22:56:42,799:INFO:Reading 2.wav
+2021-06-12 22:57:06,807:INFO:Finding offset of 2.wav
+2021-06-12 22:57:06,997:INFO:124771, 0.15638993680477142
+2021-06-12 22:57:09,452:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\2.wav
+2021-06-12 22:57:09,491:INFO:Converting 20 ... 
+2021-06-12 22:57:12,541:INFO:Converting 20 Done
+2021-06-12 22:57:12,541:INFO:Reading jingle path
+2021-06-12 22:57:12,690:INFO:Reading 20.wav
+2021-06-12 22:57:33,211:INFO:Finding offset of 20.wav
+2021-06-12 22:57:33,345:INFO:88269, 0.14261648058891296
+2021-06-12 22:57:35,103:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\20.wav
+2021-06-12 22:57:35,139:INFO:Converting 21 ... 
+2021-06-12 22:57:38,986:INFO:Converting 21 Done
+2021-06-12 22:57:38,987:INFO:Reading jingle path
+2021-06-12 22:57:39,106:INFO:Reading 21.wav
+2021-06-12 22:58:05,152:INFO:Finding offset of 21.wav
+2021-06-12 22:58:05,344:INFO:125236, 0.14521412551403046
+2021-06-12 22:58:07,769:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\21.wav
+2021-06-12 22:58:07,810:INFO:Converting 22 ... 
+2021-06-12 22:58:10,618:INFO:Converting 22 Done
+2021-06-12 22:58:10,619:INFO:Reading jingle path
+2021-06-12 22:58:10,765:INFO:Reading 22.wav
+2021-06-12 22:58:29,863:INFO:Finding offset of 22.wav
+2021-06-12 22:58:30,002:INFO:77844, 0.15011674165725708
+2021-06-12 22:58:31,606:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\22.wav
+2021-06-12 22:58:31,644:INFO:Converting 23 ... 
+2021-06-12 22:58:35,080:INFO:Converting 23 Done
+2021-06-12 22:58:35,080:INFO:Reading jingle path
+2021-06-12 22:58:35,200:INFO:Reading 23.wav
+2021-06-12 22:58:58,665:INFO:Finding offset of 23.wav
+2021-06-12 22:58:58,829:INFO:108285, 0.16023807227611542
+2021-06-12 22:59:00,954:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\23.wav
+2021-06-12 22:59:00,996:INFO:Converting 24 ... 
+2021-06-12 22:59:04,435:INFO:Converting 24 Done
+2021-06-12 22:59:04,436:INFO:Reading jingle path
+2021-06-12 22:59:04,564:INFO:Reading 24.wav
+2021-06-12 22:59:28,681:INFO:Finding offset of 24.wav
+2021-06-12 22:59:28,835:INFO:115901, 0.1572243869304657
+2021-06-12 22:59:31,067:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\24.wav
+2021-06-12 22:59:31,108:INFO:Converting 25 ... 
+2021-06-12 22:59:34,609:INFO:Converting 25 Done
+2021-06-12 22:59:34,611:INFO:Reading jingle path
+2021-06-12 22:59:34,728:INFO:Reading 25.wav
+2021-06-12 22:59:59,727:INFO:Finding offset of 25.wav
+2021-06-12 22:59:59,917:INFO:106961, 0.13729049265384674
+2021-06-12 23:00:02,073:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\25.wav
+2021-06-12 23:00:02,131:INFO:Converting 26 ... 
+2021-06-12 23:00:05,001:INFO:Converting 26 Done
+2021-06-12 23:00:05,005:INFO:Reading jingle path
+2021-06-12 23:00:05,125:INFO:Reading 26.wav
+2021-06-12 23:00:25,332:INFO:Finding offset of 26.wav
+2021-06-12 23:00:25,469:INFO:83115, 0.14538085460662842
+2021-06-12 23:00:27,198:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\26.wav
+2021-06-12 23:00:27,232:INFO:Converting 27 ... 
+2021-06-12 23:00:31,047:INFO:Converting 27 Done
+2021-06-12 23:00:31,048:INFO:Reading jingle path
+2021-06-12 23:00:31,176:INFO:Reading 27.wav
+2021-06-12 23:00:56,837:INFO:Finding offset of 27.wav
+2021-06-12 23:00:57,011:INFO:126048, 0.15172266960144043
+2021-06-12 23:00:59,423:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\27.wav
+2021-06-12 23:00:59,463:INFO:Converting 28 ... 
+2021-06-12 23:01:03,591:INFO:Converting 28 Done
+2021-06-12 23:01:03,593:INFO:Reading jingle path
+2021-06-12 23:01:03,740:INFO:Reading 28.wav
+2021-06-12 23:01:31,415:INFO:Finding offset of 28.wav
+2021-06-12 23:01:31,628:INFO:158719, 0.1554589569568634
+2021-06-12 23:01:34,865:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\28.wav
+2021-06-12 23:01:34,911:INFO:Converting 29 ... 
+2021-06-12 23:01:38,655:INFO:Converting 29 Done
+2021-06-12 23:01:38,657:INFO:Reading jingle path
+2021-06-12 23:01:38,780:INFO:Reading 29.wav
+2021-06-12 23:02:04,287:INFO:Finding offset of 29.wav
+2021-06-12 23:02:04,489:INFO:118850, 0.15909609198570251
+2021-06-12 23:02:06,837:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\29.wav
+2021-06-12 23:02:06,906:INFO:Converting 3 ... 
+2021-06-12 23:02:10,517:INFO:Converting 3 Done
+2021-06-12 23:02:10,518:INFO:Reading jingle path
+2021-06-12 23:02:10,632:INFO:Reading 3.wav
+2021-06-12 23:02:31,477:INFO:Finding offset of 3.wav
+2021-06-12 23:02:31,628:INFO:127720, 0.15854549407958984
+2021-06-12 23:02:34,393:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\3.wav
+2021-06-12 23:02:34,446:INFO:Converting 30 ... 
+2021-06-12 23:02:38,848:INFO:Converting 30 Done
+2021-06-12 23:02:38,849:INFO:Reading jingle path
+2021-06-12 23:02:38,999:INFO:Reading 30.wav
+2021-06-12 23:03:05,852:INFO:Finding offset of 30.wav
+2021-06-12 23:03:06,039:INFO:130367, 0.1560317724943161
+2021-06-12 23:03:08,620:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\30.wav
+2021-06-12 23:03:08,679:INFO:Converting 31 ... 
+2021-06-12 23:03:12,575:INFO:Converting 31 Done
+2021-06-12 23:03:12,576:INFO:Reading jingle path
+2021-06-12 23:03:12,710:INFO:Reading 31.wav
+2021-06-12 23:03:35,501:INFO:Finding offset of 31.wav
+2021-06-12 23:03:35,656:INFO:120963, 0.1587192416191101
+2021-06-12 23:03:37,616:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\31.wav
+2021-06-12 23:03:37,665:INFO:Converting 32 ... 
+2021-06-12 23:03:40,162:INFO:Converting 32 Done
+2021-06-12 23:03:40,162:INFO:Reading jingle path
+2021-06-12 23:03:40,270:INFO:Reading 32.wav
+2021-06-12 23:04:00,962:INFO:Finding offset of 32.wav
+2021-06-12 23:04:01,144:INFO:94074, 0.14350035786628723
+2021-06-12 23:04:03,017:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\32.wav
+2021-06-12 23:04:03,060:INFO:Converting 33 ... 
+2021-06-12 23:04:06,898:INFO:Converting 33 Done
+2021-06-12 23:04:06,898:INFO:Reading jingle path
+2021-06-12 23:04:07,023:INFO:Reading 33.wav
+2021-06-12 23:04:32,391:INFO:Finding offset of 33.wav
+2021-06-12 23:04:32,575:INFO:115088, 0.13868023455142975
+2021-06-12 23:04:34,860:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\33.wav
+2021-06-12 23:04:34,910:INFO:Converting 34 ... 
+2021-06-12 23:04:38,789:INFO:Converting 34 Done
+2021-06-12 23:04:38,790:INFO:Reading jingle path
+2021-06-12 23:04:38,941:INFO:Reading 34.wav
+2021-06-12 23:05:07,467:INFO:Finding offset of 34.wav
+2021-06-12 23:05:07,656:INFO:107147, 0.15399987995624542
+2021-06-12 23:05:09,544:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\34.wav
+2021-06-12 23:05:09,608:INFO:Converting 35 ... 
+2021-06-12 23:05:12,965:INFO:Converting 35 Done
+2021-06-12 23:05:12,965:INFO:Reading jingle path
+2021-06-12 23:05:13,119:INFO:Reading 35.wav
+2021-06-12 23:05:36,679:INFO:Finding offset of 35.wav
+2021-06-12 23:05:36,857:INFO:84368, 0.13868024945259094
+2021-06-12 23:05:38,821:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\35.wav
+2021-06-12 23:05:38,864:INFO:Converting 36 ... 
+2021-06-12 23:05:42,423:INFO:Converting 36 Done
+2021-06-12 23:05:42,424:INFO:Reading jingle path
+2021-06-12 23:05:42,581:INFO:Reading 36.wav
+2021-06-12 23:06:09,918:INFO:Finding offset of 36.wav
+2021-06-12 23:06:10,090:INFO:93749, 0.14911842346191406
+2021-06-12 23:06:12,298:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\36.wav
+2021-06-12 23:06:12,360:INFO:Converting 37 ... 
+2021-06-12 23:06:16,413:INFO:Converting 37 Done
+2021-06-12 23:06:16,414:INFO:Reading jingle path
+2021-06-12 23:06:16,562:INFO:Reading 37.wav
+2021-06-12 23:06:47,129:INFO:Finding offset of 37.wav
+2021-06-12 23:06:47,398:INFO:106590, 0.16030126810073853
+2021-06-12 23:06:50,212:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\37.wav
+2021-06-12 23:06:50,272:INFO:Converting 38 ... 
+2021-06-12 23:06:53,593:INFO:Converting 38 Done
+2021-06-12 23:06:53,594:INFO:Reading jingle path
+2021-06-12 23:06:53,741:INFO:Reading 38.wav
+2021-06-12 23:07:17,214:INFO:Finding offset of 38.wav
+2021-06-12 23:07:17,356:INFO:75104, 0.15272235870361328
+2021-06-12 23:07:19,085:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\38.wav
+2021-06-12 23:07:19,121:INFO:Converting 39 ... 
+2021-06-12 23:07:22,990:INFO:Converting 39 Done
+2021-06-12 23:07:22,990:INFO:Reading jingle path
+2021-06-12 23:07:23,181:INFO:Reading 39.wav
+2021-06-12 23:07:48,002:INFO:Finding offset of 39.wav
+2021-06-12 23:07:48,184:INFO:120708, 0.152230367064476
+2021-06-12 23:07:50,721:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\39.wav
+2021-06-12 23:07:50,760:INFO:Converting 4 ... 
+2021-06-12 23:07:54,434:INFO:Converting 4 Done
+2021-06-12 23:07:54,434:INFO:Reading jingle path
+2021-06-12 23:07:54,547:INFO:Reading 4.wav
+2021-06-12 23:08:19,259:INFO:Finding offset of 4.wav
+2021-06-12 23:08:19,433:INFO:137147, 0.1422576755285263
+2021-06-12 23:08:22,044:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\4.wav
+2021-06-12 23:08:22,079:INFO:Converting 40 ... 
+2021-06-12 23:08:24,941:INFO:Converting 40 Done
+2021-06-12 23:08:24,942:INFO:Reading jingle path
+2021-06-12 23:08:25,080:INFO:Reading 40.wav
+2021-06-12 23:08:44,282:INFO:Finding offset of 40.wav
+2021-06-12 23:08:44,392:INFO:85901, 0.1603481024503708
+2021-06-12 23:08:45,831:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\40.wav
+2021-06-12 23:08:45,857:INFO:Converting 41 ... 
+2021-06-12 23:08:48,814:INFO:Converting 41 Done
+2021-06-12 23:08:48,815:INFO:Reading jingle path
+2021-06-12 23:08:48,913:INFO:Reading 41.wav
+2021-06-12 23:09:10,896:INFO:Finding offset of 41.wav
+2021-06-12 23:09:11,055:INFO:109237, 0.16008469462394714
+2021-06-12 23:09:13,197:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\41.wav
+2021-06-12 23:09:13,287:INFO:Converting 42 ... 
+2021-06-12 23:09:16,637:INFO:Converting 42 Done
+2021-06-12 23:09:16,637:INFO:Reading jingle path
+2021-06-12 23:09:16,759:INFO:Reading 42.wav
+2021-06-12 23:09:39,273:INFO:Finding offset of 42.wav
+2021-06-12 23:09:39,434:INFO:93122, 0.14487867057323456
+2021-06-12 23:09:41,277:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\42.wav
+2021-06-12 23:09:41,319:INFO:Converting 43 ... 
+2021-06-12 23:09:45,200:INFO:Converting 43 Done
+2021-06-12 23:09:45,200:INFO:Reading jingle path
+2021-06-12 23:09:45,316:INFO:Reading 43.wav
+2021-06-12 23:10:06,961:INFO:Finding offset of 43.wav
+2021-06-12 23:10:07,116:INFO:124330, 0.1603013426065445
+2021-06-12 23:10:09,094:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\43.wav
+2021-06-12 23:10:09,130:INFO:Converting 44 ... 
+2021-06-12 23:10:12,049:INFO:Converting 44 Done
+2021-06-12 23:10:12,049:INFO:Reading jingle path
+2021-06-12 23:10:12,162:INFO:Reading 44.wav
+2021-06-12 23:10:32,954:INFO:Finding offset of 44.wav
+2021-06-12 23:10:33,148:INFO:115739, 0.14792530238628387
+2021-06-12 23:10:35,382:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\44.wav
+2021-06-12 23:10:35,418:INFO:Converting 45 ... 
+2021-06-12 23:10:38,927:INFO:Converting 45 Done
+2021-06-12 23:10:38,927:INFO:Reading jingle path
+2021-06-12 23:10:39,027:INFO:Reading 45.wav
+2021-06-12 23:11:01,944:INFO:Finding offset of 45.wav
+2021-06-12 23:11:02,136:INFO:140003, 0.13769163191318512
+2021-06-12 23:11:04,383:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\45.wav
+2021-06-12 23:11:04,422:INFO:Converting 46 ... 
+2021-06-12 23:11:07,426:INFO:Converting 46 Done
+2021-06-12 23:11:07,426:INFO:Reading jingle path
+2021-06-12 23:11:07,525:INFO:Reading 46.wav
+2021-06-12 23:11:31,020:INFO:Finding offset of 46.wav
+2021-06-12 23:11:31,179:INFO:121149, 0.1591414511203766
+2021-06-12 23:11:33,494:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\46.wav
+2021-06-12 23:11:33,553:INFO:Converting 47 ... 
+2021-06-12 23:11:37,169:INFO:Converting 47 Done
+2021-06-12 23:11:37,169:INFO:Reading jingle path
+2021-06-12 23:11:37,287:INFO:Reading 47.wav
+2021-06-12 23:12:02,074:INFO:Finding offset of 47.wav
+2021-06-12 23:12:02,250:INFO:109330, 0.15989866852760315
+2021-06-12 23:12:04,325:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\47.wav
+2021-06-12 23:12:04,370:INFO:Converting 48 ... 
+2021-06-12 23:12:08,257:INFO:Converting 48 Done
+2021-06-12 23:12:08,258:INFO:Reading jingle path
+2021-06-12 23:12:08,385:INFO:Reading 48.wav
+2021-06-12 23:12:33,540:INFO:Finding offset of 48.wav
+2021-06-12 23:12:33,731:INFO:129740, 0.15320172905921936
+2021-06-12 23:12:36,186:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\48.wav
+2021-06-12 23:12:36,234:INFO:Converting 49 ... 
+2021-06-12 23:12:39,620:INFO:Converting 49 Done
+2021-06-12 23:12:39,621:INFO:Reading jingle path
+2021-06-12 23:12:39,745:INFO:Reading 49.wav
+2021-06-12 23:13:02,717:INFO:Finding offset of 49.wav
+2021-06-12 23:13:02,865:INFO:93215, 0.15260152518749237
+2021-06-12 23:13:04,775:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\49.wav
+2021-06-12 23:13:04,810:INFO:Converting 5 ... 
+2021-06-12 23:13:07,774:INFO:Converting 5 Done
+2021-06-12 23:13:07,775:INFO:Reading jingle path
+2021-06-12 23:13:07,905:INFO:Reading 5.wav
+2021-06-12 23:13:26,060:INFO:Finding offset of 5.wav
+2021-06-12 23:13:26,206:INFO:89500, 0.15954746305942535
+2021-06-12 23:13:28,128:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\5.wav
+2021-06-12 23:13:28,160:INFO:Converting 50 ... 
+2021-06-12 23:13:31,450:INFO:Converting 50 Done
+2021-06-12 23:13:31,450:INFO:Reading jingle path
+2021-06-12 23:13:31,621:INFO:Reading 50.wav
+2021-06-12 23:13:54,804:INFO:Finding offset of 50.wav
+2021-06-12 23:13:54,964:INFO:92263, 0.1535472422838211
+2021-06-12 23:13:56,910:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\50.wav
+2021-06-12 23:13:56,954:INFO:Converting 51 ... 
+2021-06-12 23:14:01,383:INFO:Converting 51 Done
+2021-06-12 23:14:01,384:INFO:Reading jingle path
+2021-06-12 23:14:01,510:INFO:Reading 51.wav
+2021-06-12 23:14:31,417:INFO:Finding offset of 51.wav
+2021-06-12 23:14:31,589:INFO:145019, 0.16034729778766632
+2021-06-12 23:14:33,924:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\51.wav
+2021-06-12 23:14:33,967:INFO:Converting 52 ... 
+2021-06-12 23:14:36,615:INFO:Converting 52 Done
+2021-06-12 23:14:36,615:INFO:Reading jingle path
+2021-06-12 23:14:36,718:INFO:Reading 52.wav
+2021-06-12 23:14:57,681:INFO:Finding offset of 52.wav
+2021-06-12 23:14:57,823:INFO:101435, 0.1582324355840683
+2021-06-12 23:14:59,839:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\52.wav
+2021-06-12 23:14:59,895:INFO:Converting 53 ... 
+2021-06-12 23:15:03,756:INFO:Converting 53 Done
+2021-06-12 23:15:03,756:INFO:Reading jingle path
+2021-06-12 23:15:03,881:INFO:Reading 53.wav
+2021-06-12 23:15:28,537:INFO:Finding offset of 53.wav
+2021-06-12 23:15:28,719:INFO:114833, 0.15998370945453644
+2021-06-12 23:15:30,882:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\53.wav
+2021-06-12 23:15:30,926:INFO:Converting 54 ... 
+2021-06-12 23:15:34,730:INFO:Converting 54 Done
+2021-06-12 23:15:34,730:INFO:Reading jingle path
+2021-06-12 23:15:34,864:INFO:Reading 54.wav
+2021-06-12 23:15:59,301:INFO:Finding offset of 54.wav
+2021-06-12 23:15:59,473:INFO:119036, 0.15877526998519897
+2021-06-12 23:16:01,826:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\54.wav
+2021-06-12 23:16:01,900:INFO:Converting 55 ... 
+2021-06-12 23:16:05,708:INFO:Converting 55 Done
+2021-06-12 23:16:05,709:INFO:Reading jingle path
+2021-06-12 23:16:05,838:INFO:Reading 55.wav
+2021-06-12 23:16:30,801:INFO:Finding offset of 55.wav
+2021-06-12 23:16:30,996:INFO:118386, 0.1524783819913864
+2021-06-12 23:16:33,187:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\55.wav
+2021-06-12 23:16:33,244:INFO:Converting 56 ... 
+2021-06-12 23:16:36,050:INFO:Converting 56 Done
+2021-06-12 23:16:36,051:INFO:Reading jingle path
+2021-06-12 23:16:36,203:INFO:Reading 56.wav
+2021-06-12 23:16:59,360:INFO:Finding offset of 56.wav
+2021-06-12 23:16:59,494:INFO:80142, 0.14134454727172852
+2021-06-12 23:17:01,174:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\56.wav
+2021-06-12 23:17:01,215:INFO:Converting 57 ... 
+2021-06-12 23:17:04,862:INFO:Converting 57 Done
+2021-06-12 23:17:04,862:INFO:Reading jingle path
+2021-06-12 23:17:04,993:INFO:Reading 57.wav
+2021-06-12 23:17:28,884:INFO:Finding offset of 57.wav
+2021-06-12 23:17:29,046:INFO:107519, 0.1554589420557022
+2021-06-12 23:17:31,226:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\57.wav
+2021-06-12 23:17:31,284:INFO:Converting 58 ... 
+2021-06-12 23:17:34,771:INFO:Converting 58 Done
+2021-06-12 23:17:34,772:INFO:Reading jingle path
+2021-06-12 23:17:34,900:INFO:Reading 58.wav
+2021-06-12 23:17:58,533:INFO:Finding offset of 58.wav
+2021-06-12 23:17:58,704:INFO:110770, 0.14279597997665405
+2021-06-12 23:18:00,872:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\58.wav
+2021-06-12 23:18:00,916:INFO:Converting 59 ... 
+2021-06-12 23:18:05,443:INFO:Converting 59 Done
+2021-06-12 23:18:05,444:INFO:Reading jingle path
+2021-06-12 23:18:05,569:INFO:Reading 59.wav
+2021-06-12 23:18:34,609:INFO:Finding offset of 59.wav
+2021-06-12 23:18:34,811:INFO:149756, 0.15877526998519897
+2021-06-12 23:18:37,745:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\59.wav
+2021-06-12 23:18:37,817:INFO:Converting 6 ... 
+2021-06-12 23:18:41,020:INFO:Converting 6 Done
+2021-06-12 23:18:41,022:INFO:Reading jingle path
+2021-06-12 23:18:41,145:INFO:Reading 6.wav
+2021-06-12 23:19:02,299:INFO:Finding offset of 6.wav
+2021-06-12 23:19:02,439:INFO:99949, 0.1598644256591797
+2021-06-12 23:19:04,447:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\6.wav
+2021-06-12 23:19:04,508:INFO:Converting 60 ... 
+2021-06-12 23:19:08,180:INFO:Converting 60 Done
+2021-06-12 23:19:08,180:INFO:Reading jingle path
+2021-06-12 23:19:08,311:INFO:Reading 60.wav
+2021-06-12 23:19:32,697:INFO:Finding offset of 60.wav
+2021-06-12 23:19:32,880:INFO:120197, 0.15872055292129517
+2021-06-12 23:19:35,300:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\60.wav
+2021-06-12 23:19:35,351:INFO:Converting 61 ... 
+2021-06-12 23:19:38,837:INFO:Converting 61 Done
+2021-06-12 23:19:38,838:INFO:Reading jingle path
+2021-06-12 23:19:38,968:INFO:Reading 61.wav
+2021-06-12 23:20:01,634:INFO:Finding offset of 61.wav
+2021-06-12 23:20:01,773:INFO:94516, 0.14521411061286926
+2021-06-12 23:20:03,332:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\61.wav
+2021-06-12 23:20:03,387:INFO:Converting 62 ... 
+2021-06-12 23:20:06,728:INFO:Converting 62 Done
+2021-06-12 23:20:06,728:INFO:Reading jingle path
+2021-06-12 23:20:06,834:INFO:Reading 62.wav
+2021-06-12 23:20:33,026:INFO:Finding offset of 62.wav
+2021-06-12 23:20:33,214:INFO:130669, 0.1598644256591797
+2021-06-12 23:20:35,946:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\62.wav
+2021-06-12 23:20:36,014:INFO:Converting 63 ... 
+2021-06-12 23:20:39,928:INFO:Converting 63 Done
+2021-06-12 23:20:39,928:INFO:Reading jingle path
+2021-06-12 23:20:40,059:INFO:Reading 63.wav
+2021-06-12 23:21:05,564:INFO:Finding offset of 63.wav
+2021-06-12 23:21:05,745:INFO:116969, 0.1518498808145523
+2021-06-12 23:21:08,116:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\63.wav
+2021-06-12 23:21:08,164:INFO:Converting 64 ... 
+2021-06-12 23:21:11,591:INFO:Converting 64 Done
+2021-06-12 23:21:11,592:INFO:Reading jingle path
+2021-06-12 23:21:11,734:INFO:Reading 64.wav
+2021-06-12 23:21:34,278:INFO:Finding offset of 64.wav
+2021-06-12 23:21:34,427:INFO:107379, 0.14078505337238312
+2021-06-12 23:21:36,573:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\64.wav
+2021-06-12 23:21:36,609:INFO:Converting 65 ... 
+2021-06-12 23:21:39,703:INFO:Converting 65 Done
+2021-06-12 23:21:39,703:INFO:Reading jingle path
+2021-06-12 23:21:39,852:INFO:Reading 65.wav
+2021-06-12 23:22:01,379:INFO:Finding offset of 65.wav
+2021-06-12 23:22:01,522:INFO:77797, 0.15506310760974884
+2021-06-12 23:22:03,122:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\65.wav
+2021-06-12 23:22:03,177:INFO:Converting 66 ... 
+2021-06-12 23:22:06,667:INFO:Converting 66 Done
+2021-06-12 23:22:06,668:INFO:Reading jingle path
+2021-06-12 23:22:06,799:INFO:Reading 66.wav
+2021-06-12 23:22:30,038:INFO:Finding offset of 66.wav
+2021-06-12 23:22:30,222:INFO:112511, 0.15992523729801178
+2021-06-12 23:22:32,478:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\66.wav
+2021-06-12 23:22:32,535:INFO:Converting 67 ... 
+2021-06-12 23:22:35,886:INFO:Converting 67 Done
+2021-06-12 23:22:35,886:INFO:Reading jingle path
+2021-06-12 23:22:36,004:INFO:Reading 67.wav
+2021-06-12 23:22:59,277:INFO:Finding offset of 67.wav
+2021-06-12 23:22:59,424:INFO:104593, 0.15998370945453644
+2021-06-12 23:23:01,233:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\67.wav
+2021-06-12 23:23:01,266:INFO:Converting 68 ... 
+2021-06-12 23:23:03,389:INFO:Converting 68 Done
+2021-06-12 23:23:03,390:INFO:Reading jingle path
+2021-06-12 23:23:03,495:INFO:Reading 68.wav
+2021-06-12 23:23:20,316:INFO:Finding offset of 68.wav
+2021-06-12 23:23:20,419:INFO:55901, 0.15706636011600494
+2021-06-12 23:23:21,575:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\68.wav
+2021-06-12 23:23:21,602:INFO:Converting 69 ... 
+2021-06-12 23:23:25,195:INFO:Converting 69 Done
+2021-06-12 23:23:25,196:INFO:Reading jingle path
+2021-06-12 23:23:25,313:INFO:Reading 69.wav
+2021-06-12 23:23:47,623:INFO:Finding offset of 69.wav
+2021-06-12 23:23:47,767:INFO:110816, 0.16034075617790222
+2021-06-12 23:23:49,577:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\69.wav
+2021-06-12 23:23:49,614:INFO:Converting 7 ... 
+2021-06-12 23:23:51,911:INFO:Converting 7 Done
+2021-06-12 23:23:51,911:INFO:Reading jingle path
+2021-06-12 23:23:52,027:INFO:Reading 7.wav
+2021-06-12 23:24:08,932:INFO:Finding offset of 7.wav
+2021-06-12 23:24:09,056:INFO:75057, 0.15284329652786255
+2021-06-12 23:24:10,638:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\7.wav
+2021-06-12 23:24:10,684:INFO:Converting 70 ... 
+2021-06-12 23:24:14,294:INFO:Converting 70 Done
+2021-06-12 23:24:14,294:INFO:Reading jingle path
+2021-06-12 23:24:14,428:INFO:Reading 70.wav
+2021-06-12 23:24:38,251:INFO:Finding offset of 70.wav
+2021-06-12 23:24:38,484:INFO:104431, 0.13887529075145721
+2021-06-12 23:24:40,624:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\70.wav
+2021-06-12 23:24:40,677:INFO:Converting 71 ... 
+2021-06-12 23:24:44,671:INFO:Converting 71 Done
+2021-06-12 23:24:44,671:INFO:Reading jingle path
+2021-06-12 23:24:44,794:INFO:Reading 71.wav
+2021-06-12 23:25:10,858:INFO:Finding offset of 71.wav
+2021-06-12 23:25:11,047:INFO:123935, 0.15260151028633118
+2021-06-12 23:25:13,545:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\71.wav
+2021-06-12 23:25:13,613:INFO:Converting 72 ... 
+2021-06-12 23:25:17,070:INFO:Converting 72 Done
+2021-06-12 23:25:17,070:INFO:Reading jingle path
+2021-06-12 23:25:17,213:INFO:Reading 72.wav
+2021-06-12 23:25:40,319:INFO:Finding offset of 72.wav
+2021-06-12 23:25:40,483:INFO:116784, 0.1402217596769333
+2021-06-12 23:25:42,756:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\72.wav
+2021-06-12 23:25:42,799:INFO:Converting 73 ... 
+2021-06-12 23:25:46,667:INFO:Converting 73 Done
+2021-06-12 23:25:46,668:INFO:Reading jingle path
+2021-06-12 23:25:46,785:INFO:Reading 73.wav
+2021-06-12 23:26:11,407:INFO:Finding offset of 73.wav
+2021-06-12 23:26:11,587:INFO:120058, 0.14134418964385986
+2021-06-12 23:26:13,967:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\73.wav
+2021-06-12 23:26:14,029:INFO:Converting 74 ... 
+2021-06-12 23:26:17,605:INFO:Converting 74 Done
+2021-06-12 23:26:17,605:INFO:Reading jingle path
+2021-06-12 23:26:17,724:INFO:Reading 74.wav
+2021-06-12 23:26:40,747:INFO:Finding offset of 74.wav
+2021-06-12 23:26:40,908:INFO:111443, 0.16008512675762177
+2021-06-12 23:26:43,103:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\74.wav
+2021-06-12 23:26:43,171:INFO:Converting 75 ... 
+2021-06-12 23:26:47,638:INFO:Converting 75 Done
+2021-06-12 23:26:47,638:INFO:Reading jingle path
+2021-06-12 23:26:47,757:INFO:Reading 75.wav
+2021-06-12 23:27:16,291:INFO:Finding offset of 75.wav
+2021-06-12 23:27:16,512:INFO:154771, 0.14635831117630005
+2021-06-12 23:27:19,690:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\75.wav
+2021-06-12 23:27:19,768:INFO:Converting 76 ... 
+2021-06-12 23:27:22,480:INFO:Converting 76 Done
+2021-06-12 23:27:22,481:INFO:Reading jingle path
+2021-06-12 23:27:22,639:INFO:Reading 76.wav
+2021-06-12 23:27:39,636:INFO:Finding offset of 76.wav
+2021-06-12 23:27:39,741:INFO:76009, 0.1518498957157135
+2021-06-12 23:27:41,016:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\76.wav
+2021-06-12 23:27:41,052:INFO:Converting 77 ... 
+2021-06-12 23:27:43,988:INFO:Converting 77 Done
+2021-06-12 23:27:43,988:INFO:Reading jingle path
+2021-06-12 23:27:44,094:INFO:Reading 77.wav
+2021-06-12 23:28:03,471:INFO:Finding offset of 77.wav
+2021-06-12 23:28:03,607:INFO:99345, 0.14853176474571228
+2021-06-12 23:28:05,262:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\77.wav
+2021-06-12 23:28:05,318:INFO:Converting 78 ... 
+2021-06-12 23:28:08,078:INFO:Converting 78 Done
+2021-06-12 23:28:08,078:INFO:Reading jingle path
+2021-06-12 23:28:08,183:INFO:Reading 78.wav
+2021-06-12 23:28:26,451:INFO:Finding offset of 78.wav
+2021-06-12 23:28:26,579:INFO:99090, 0.15989866852760315
+2021-06-12 23:28:28,225:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\78.wav
+2021-06-12 23:28:28,259:INFO:Converting 79 ... 
+2021-06-12 23:28:31,121:INFO:Converting 79 Done
+2021-06-12 23:28:31,122:INFO:Reading jingle path
+2021-06-12 23:28:31,224:INFO:Reading 79.wav
+2021-06-12 23:28:50,308:INFO:Finding offset of 79.wav
+2021-06-12 23:28:50,491:INFO:93378, 0.1573045700788498
+2021-06-12 23:28:52,301:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\79.wav
+2021-06-12 23:28:52,341:INFO:Converting 8 ... 
+2021-06-12 23:28:54,904:INFO:Converting 8 Done
+2021-06-12 23:28:54,905:INFO:Reading jingle path
+2021-06-12 23:28:55,017:INFO:Reading 8.wav
+2021-06-12 23:29:11,126:INFO:Finding offset of 8.wav
+2021-06-12 23:29:11,237:INFO:85112, 0.1386817842721939
+2021-06-12 23:29:12,722:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\8.wav
+2021-06-12 23:29:12,760:INFO:Converting 80 ... 
+2021-06-12 23:29:16,105:INFO:Converting 80 Done
+2021-06-12 23:29:16,105:INFO:Reading jingle path
+2021-06-12 23:29:16,213:INFO:Reading 80.wav
+2021-06-12 23:29:40,070:INFO:Finding offset of 80.wav
+2021-06-12 23:29:40,255:INFO:132689, 0.1562117636203766
+2021-06-12 23:29:42,883:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\80.wav
+2021-06-12 23:29:42,932:INFO:Converting 81 ... 
+2021-06-12 23:29:47,579:INFO:Converting 81 Done
+2021-06-12 23:29:47,580:INFO:Reading jingle path
+2021-06-12 23:29:47,983:INFO:Reading 81.wav
+2021-06-12 23:30:18,462:INFO:Finding offset of 81.wav
+2021-06-12 23:30:18,665:INFO:141164, 0.13788938522338867
+2021-06-12 23:30:21,552:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\81.wav
+2021-06-12 23:30:21,603:INFO:Converting 82 ... 
+2021-06-12 23:30:25,314:INFO:Converting 82 Done
+2021-06-12 23:30:25,315:INFO:Reading jingle path
+2021-06-12 23:30:25,447:INFO:Reading 82.wav
+2021-06-12 23:30:50,385:INFO:Finding offset of 82.wav
+2021-06-12 23:30:50,554:INFO:118897, 0.1415296047925949
+2021-06-12 23:30:52,972:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\82.wav
+2021-06-12 23:30:53,015:INFO:Converting 83 ... 
+2021-06-12 23:30:56,728:INFO:Converting 83 Done
+2021-06-12 23:30:56,729:INFO:Reading jingle path
+2021-06-12 23:30:56,845:INFO:Reading 83.wav
+2021-06-12 23:31:20,923:INFO:Finding offset of 83.wav
+2021-06-12 23:31:21,105:INFO:108355, 0.15133510529994965
+2021-06-12 23:31:23,338:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\83.wav
+2021-06-12 23:31:23,380:INFO:Converting 84 ... 
+2021-06-12 23:31:26,827:INFO:Converting 84 Done
+2021-06-12 23:31:26,828:INFO:Reading jingle path
+2021-06-12 23:31:26,948:INFO:Reading 84.wav
+2021-06-12 23:31:49,413:INFO:Finding offset of 84.wav
+2021-06-12 23:31:49,589:INFO:103386, 0.14684075117111206
+2021-06-12 23:31:51,730:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\84.wav
+2021-06-12 23:31:51,776:INFO:Converting 85 ... 
+2021-06-12 23:31:55,558:INFO:Converting 85 Done
+2021-06-12 23:31:55,558:INFO:Reading jingle path
+2021-06-12 23:31:55,680:INFO:Reading 85.wav
+2021-06-12 23:32:20,202:INFO:Finding offset of 85.wav
+2021-06-12 23:32:20,388:INFO:112465, 0.14699919521808624
+2021-06-12 23:32:22,658:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\85.wav
+2021-06-12 23:32:22,710:INFO:Converting 86 ... 
+2021-06-12 23:32:25,417:INFO:Converting 86 Done
+2021-06-12 23:32:25,418:INFO:Reading jingle path
+2021-06-12 23:32:25,523:INFO:Reading 86.wav
+2021-06-12 23:32:43,233:INFO:Finding offset of 86.wav
+2021-06-12 23:32:43,392:INFO:84508, 0.1564798802137375
+2021-06-12 23:32:45,145:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\86.wav
+2021-06-12 23:32:45,199:INFO:Converting 87 ... 
+2021-06-12 23:32:49,020:INFO:Converting 87 Done
+2021-06-12 23:32:49,022:INFO:Reading jingle path
+2021-06-12 23:32:49,140:INFO:Reading 87.wav
+2021-06-12 23:33:13,053:INFO:Finding offset of 87.wav
+2021-06-12 23:33:13,245:INFO:100994, 0.16025035083293915
+2021-06-12 23:33:15,368:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\87.wav
+2021-06-12 23:33:15,421:INFO:Converting 88 ... 
+2021-06-12 23:33:19,139:INFO:Converting 88 Done
+2021-06-12 23:33:19,140:INFO:Reading jingle path
+2021-06-12 23:33:19,280:INFO:Reading 88.wav
+2021-06-12 23:33:44,081:INFO:Finding offset of 88.wav
+2021-06-12 23:33:44,264:INFO:123564, 0.15496057271957397
+2021-06-12 23:33:46,779:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\88.wav
+2021-06-12 23:33:46,837:INFO:Converting 89 ... 
+2021-06-12 23:33:50,217:INFO:Converting 89 Done
+2021-06-12 23:33:50,218:INFO:Reading jingle path
+2021-06-12 23:33:50,353:INFO:Reading 89.wav
+2021-06-12 23:34:12,897:INFO:Finding offset of 89.wav
+2021-06-12 23:34:13,041:INFO:89825, 0.1575341671705246
+2021-06-12 23:34:14,908:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\89.wav
+2021-06-12 23:34:14,957:INFO:Converting 9 ... 
+2021-06-12 23:34:18,567:INFO:Converting 9 Done
+2021-06-12 23:34:18,568:INFO:Reading jingle path
+2021-06-12 23:34:18,699:INFO:Reading 9.wav
+2021-06-12 23:34:41,091:INFO:Finding offset of 9.wav
+2021-06-12 23:34:41,224:INFO:116946, 0.1597670018672943
+2021-06-12 23:34:43,121:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\9.wav
+2021-06-12 23:34:43,169:INFO:Converting 90 ... 
+2021-06-12 23:34:45,762:INFO:Converting 90 Done
+2021-06-12 23:34:45,762:INFO:Reading jingle path
+2021-06-12 23:34:45,868:INFO:Reading 90.wav
+2021-06-12 23:35:03,189:INFO:Finding offset of 90.wav
+2021-06-12 23:35:03,306:INFO:84833, 0.15894120931625366
+2021-06-12 23:35:04,736:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\90.wav
+2021-06-12 23:35:04,769:INFO:Converting 91 ... 
+2021-06-12 23:35:08,119:INFO:Converting 91 Done
+2021-06-12 23:35:08,119:INFO:Reading jingle path
+2021-06-12 23:35:08,225:INFO:Reading 91.wav
+2021-06-12 23:35:29,860:INFO:Finding offset of 91.wav
+2021-06-12 23:35:30,034:INFO:127859, 0.14078503847122192
+2021-06-12 23:35:32,119:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\91.wav
+2021-06-12 23:35:32,157:INFO:Converting 92 ... 
+2021-06-12 23:35:34,474:INFO:Converting 92 Done
+2021-06-12 23:35:34,474:INFO:Reading jingle path
+2021-06-12 23:35:34,591:INFO:Reading 92.wav
+2021-06-12 23:35:50,604:INFO:Finding offset of 92.wav
+2021-06-12 23:35:50,705:INFO:74198, 0.15842106938362122
+2021-06-12 23:35:51,942:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\92.wav
+2021-06-12 23:35:51,968:INFO:Converting 93 ... 
+2021-06-12 23:35:54,985:INFO:Converting 93 Done
+2021-06-12 23:35:54,985:INFO:Reading jingle path
+2021-06-12 23:35:55,091:INFO:Reading 93.wav
+2021-06-12 23:36:19,675:INFO:Finding offset of 93.wav
+2021-06-12 23:36:19,871:INFO:112023, 0.14152656495571136
+2021-06-12 23:36:22,142:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\93.wav
+2021-06-12 23:36:22,202:INFO:Converting 94 ... 
+2021-06-12 23:36:25,827:INFO:Converting 94 Done
+2021-06-12 23:36:25,827:INFO:Reading jingle path
+2021-06-12 23:36:25,951:INFO:Reading 94.wav
+2021-06-12 23:36:50,617:INFO:Finding offset of 94.wav
+2021-06-12 23:36:50,794:INFO:120220, 0.15954744815826416
+2021-06-12 23:36:53,106:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\94.wav
+2021-06-12 23:36:53,143:INFO:Converting 95 ... 
+2021-06-12 23:36:56,529:INFO:Converting 95 Done
+2021-06-12 23:36:56,529:INFO:Reading jingle path
+2021-06-12 23:36:56,645:INFO:Reading 95.wav
+2021-06-12 23:37:18,917:INFO:Finding offset of 95.wav
+2021-06-12 23:37:19,077:INFO:89454, 0.14867980778217316
+2021-06-12 23:37:20,892:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\95.wav
+2021-06-12 23:37:20,942:INFO:Converting 96 ... 
+2021-06-12 23:37:24,296:INFO:Converting 96 Done
+2021-06-12 23:37:24,296:INFO:Reading jingle path
+2021-06-12 23:37:24,419:INFO:Reading 96.wav
+2021-06-12 23:37:46,615:INFO:Finding offset of 96.wav
+2021-06-12 23:37:46,787:INFO:101226, 0.15760529041290283
+2021-06-12 23:37:48,940:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\96.wav
+2021-06-12 23:37:48,993:INFO:Converting 97 ... 
+2021-06-12 23:37:52,673:INFO:Converting 97 Done
+2021-06-12 23:37:52,674:INFO:Reading jingle path
+2021-06-12 23:37:52,793:INFO:Reading 97.wav
+2021-06-12 23:38:16,671:INFO:Finding offset of 97.wav
+2021-06-12 23:38:16,851:INFO:103687, 0.13848495483398438
+2021-06-12 23:38:18,904:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\97.wav
+2021-06-12 23:38:18,970:INFO:Converting 98 ... 
+2021-06-12 23:38:21,964:INFO:Converting 98 Done
+2021-06-12 23:38:21,965:INFO:Reading jingle path
+2021-06-12 23:38:22,094:INFO:Reading 98.wav
+2021-06-12 23:38:42,082:INFO:Finding offset of 98.wav
+2021-06-12 23:38:42,214:INFO:78889, 0.1429712325334549
+2021-06-12 23:38:43,833:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\98.wav
+2021-06-12 23:38:43,868:INFO:Converting 99 ... 
+2021-06-12 23:38:47,031:INFO:Converting 99 Done
+2021-06-12 23:38:47,031:INFO:Reading jingle path
+2021-06-12 23:38:47,152:INFO:Reading 99.wav
+2021-06-12 23:39:08,598:INFO:Finding offset of 99.wav
+2021-06-12 23:39:08,737:INFO:82000, 0.1601504236459732
+2021-06-12 23:39:10,391:INFO:Removing C:\Users\Chris\Documents\Python\StoryLearningSpanish\temp\99.wav
